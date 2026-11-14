@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Aventin", "name_it": "Aventino", "categorie": "Colline", "lat": 41.883694, "lon": 12.479417, "source": "OpenStreetMap node/13121237513 (sommet)"}, "geometry": {"type": "Point", "coordinates": [12.479417, 41.883694]}}]}
