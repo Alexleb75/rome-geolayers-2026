@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Rome Baptist Church", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.903759, "lon": 12.478314, "confession": "baptist", "wikidata": "", "source": "OpenStreetMap node/1732938324"}, "geometry": {"type": "Point", "coordinates": [12.478314, 41.903759]}}]}

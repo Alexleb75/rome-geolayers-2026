@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santi Protomartiri Romani", "categorie": "Église", "municipio": "Municipio Roma XIII", "lat": 41.894583, "lon": 12.441335, "confession": "roman_catholic", "wikidata": "Q3668392", "source": "OpenStreetMap way/128138307"}, "geometry": {"type": "Point", "coordinates": [12.441335, 41.894583]}}]}

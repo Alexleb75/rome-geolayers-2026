@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa evangelica battista ai Monti", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.89781, "lon": 12.495239, "confession": "baptist", "wikidata": "Q3586157", "source": "OpenStreetMap way/201630119"}, "geometry": {"type": "Point", "coordinates": [12.495239, 41.89781]}}]}

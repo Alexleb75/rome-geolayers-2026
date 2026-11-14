@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sant’Eustachio in Campo Marzio", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.898648, "lon": 12.47573, "confession": "catholic", "wikidata": "Q1107945", "source": "OpenStreetMap way/128740195"}, "geometry": {"type": "Point", "coordinates": [12.47573, 41.898648]}}]}

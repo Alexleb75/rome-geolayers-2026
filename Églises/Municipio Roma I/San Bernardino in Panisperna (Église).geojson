@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Bernardino in Panisperna", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.89599, "lon": 12.489245, "confession": "roman_catholic", "wikidata": "Q1344657", "source": "OpenStreetMap way/157404571"}, "geometry": {"type": "Point", "coordinates": [12.489245, 41.89599]}}]}

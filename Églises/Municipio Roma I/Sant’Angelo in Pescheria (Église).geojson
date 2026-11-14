@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sant’Angelo in Pescheria", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.892653, "lon": 12.478708, "confession": "catholic", "wikidata": "Q655444", "source": "OpenStreetMap way/123530591"}, "geometry": {"type": "Point", "coordinates": [12.478708, 41.892653]}}]}

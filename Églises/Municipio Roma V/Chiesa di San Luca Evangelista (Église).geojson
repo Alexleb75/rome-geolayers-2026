@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Luca Evangelista", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.888321, "lon": 12.537611, "confession": "roman_catholic", "wikidata": "Q3670959", "source": "OpenStreetMap way/366749148"}, "geometry": {"type": "Point", "coordinates": [12.537611, 41.888321]}}]}

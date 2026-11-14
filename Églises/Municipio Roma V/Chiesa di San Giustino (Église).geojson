@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Giustino", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.87389, "lon": 12.580381, "confession": "roman_catholic", "wikidata": "Q3670684", "source": "OpenStreetMap way/316882812"}, "geometry": {"type": "Point", "coordinates": [12.580381, 41.87389]}}]}

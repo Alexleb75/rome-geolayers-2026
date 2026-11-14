@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Tommaso ai Cenci", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.892401, "lon": 12.476317, "confession": "catholic", "wikidata": "Q3672139", "source": "OpenStreetMap relation/2289084"}, "geometry": {"type": "Point", "coordinates": [12.476317, 41.892401]}}]}

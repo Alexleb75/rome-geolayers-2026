@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria del Cenacolo", "categorie": "Église", "municipio": "Municipio Roma XIV", "lat": 41.924699, "lon": 12.440119, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap node/5518371408"}, "geometry": {"type": "Point", "coordinates": [12.440119, 41.924699]}}]}

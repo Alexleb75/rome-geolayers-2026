@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Giuseppe a Capo le Case", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.904005, "lon": 12.486015, "confession": "catholic", "wikidata": "Q3670675", "source": "OpenStreetMap way/202309914"}, "geometry": {"type": "Point", "coordinates": [12.486015, 41.904005]}}]}

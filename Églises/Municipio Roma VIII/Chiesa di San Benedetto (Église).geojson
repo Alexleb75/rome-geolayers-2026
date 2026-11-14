@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Benedetto", "categorie": "Église", "municipio": "Municipio Roma VIII", "lat": 41.871549, "lon": 12.478615, "confession": "roman_catholic", "wikidata": "Q3669607", "source": "OpenStreetMap way/219715750"}, "geometry": {"type": "Point", "coordinates": [12.478615, 41.871549]}}]}

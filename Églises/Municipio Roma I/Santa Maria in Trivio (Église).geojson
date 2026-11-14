@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria in Trivio", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.901198, "lon": 12.482745, "confession": "roman_catholic", "wikidata": "Q1423813", "source": "OpenStreetMap node/279379894"}, "geometry": {"type": "Point", "coordinates": [12.482745, 41.901198]}}]}

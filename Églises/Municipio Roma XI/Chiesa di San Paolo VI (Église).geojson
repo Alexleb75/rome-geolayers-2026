@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Paolo VI", "categorie": "Église", "municipio": "Municipio Roma XI", "lat": 41.843127, "lon": 12.359592, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/659356537"}, "geometry": {"type": "Point", "coordinates": [12.359592, 41.843127]}}]}

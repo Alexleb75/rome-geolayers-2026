@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa dei Santi Crisante e Daria", "categorie": "Église", "municipio": "Municipio Roma III", "lat": 41.988666, "lon": 12.508454, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/1265264434"}, "geometry": {"type": "Point", "coordinates": [12.508454, 41.988666]}}]}

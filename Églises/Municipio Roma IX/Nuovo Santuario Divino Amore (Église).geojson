@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Nuovo Santuario Divino Amore", "categorie": "Église", "municipio": "Municipio Roma IX", "lat": 41.778756, "lon": 12.543798, "confession": "roman_catholic", "wikidata": "Q2373648", "source": "OpenStreetMap way/880583236"}, "geometry": {"type": "Point", "coordinates": [12.543798, 41.778756]}}]}

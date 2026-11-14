@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa del Domine Quo Vadis", "categorie": "Église", "municipio": "Municipio Roma VIII", "lat": 41.866483, "lon": 12.503716, "confession": "catholic", "wikidata": "Q1081921", "source": "OpenStreetMap way/50773070"}, "geometry": {"type": "Point", "coordinates": [12.503716, 41.866483]}}]}

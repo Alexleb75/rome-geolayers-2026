@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Nicola", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.903997, "lon": 12.505159, "confession": "russian_orthodox", "wikidata": "", "source": "OpenStreetMap way/344370213"}, "geometry": {"type": "Point", "coordinates": [12.505159, 41.903997]}}]}

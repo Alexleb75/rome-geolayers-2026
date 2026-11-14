@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa Pentecostale Dio è Amore", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.875533, "lon": 12.541132, "confession": "pentecostal", "wikidata": "", "source": "OpenStreetMap node/2479887557"}, "geometry": {"type": "Point", "coordinates": [12.541132, 41.875533]}}]}

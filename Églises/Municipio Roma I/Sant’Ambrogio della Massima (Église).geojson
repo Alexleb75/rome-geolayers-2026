@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sant’Ambrogio della Massima", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.893137, "lon": 12.478269, "confession": "catholic", "wikidata": "Q2223825", "source": "OpenStreetMap way/123530519"}, "geometry": {"type": "Point", "coordinates": [12.478269, 41.893137]}}]}

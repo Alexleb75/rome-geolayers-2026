@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria in Monterone", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.89677, "lon": 12.475539, "confession": "catholic", "wikidata": "Q2223178", "source": "OpenStreetMap way/201835958"}, "geometry": {"type": "Point", "coordinates": [12.475539, 41.89677]}}]}

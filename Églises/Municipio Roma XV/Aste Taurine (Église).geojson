@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Aste Taurine", "categorie": "Église", "municipio": "Municipio Roma XV", "lat": 42.036671, "lon": 12.313949, "confession": "", "wikidata": "", "source": "OpenStreetMap relation/8639042"}, "geometry": {"type": "Point", "coordinates": [12.313949, 42.036671]}}]}

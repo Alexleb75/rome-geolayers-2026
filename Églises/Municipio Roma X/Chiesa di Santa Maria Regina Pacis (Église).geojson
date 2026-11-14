@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria Regina Pacis", "categorie": "Église", "municipio": "Municipio Roma X", "lat": 41.73166, "lon": 12.281308, "confession": "roman_catholic", "wikidata": "Q3673521", "source": "OpenStreetMap way/33881967"}, "geometry": {"type": "Point", "coordinates": [12.281308, 41.73166]}}]}

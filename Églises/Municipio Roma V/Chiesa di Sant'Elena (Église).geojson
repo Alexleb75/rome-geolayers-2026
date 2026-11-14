@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Elena", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.887324, "lon": 12.526416, "confession": "catholic", "wikidata": "Q3672765", "source": "OpenStreetMap relation/13288335"}, "geometry": {"type": "Point", "coordinates": [12.526416, 41.887324]}}]}

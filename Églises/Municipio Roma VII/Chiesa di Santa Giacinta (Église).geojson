@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Giacinta", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.887832, "lon": 12.523608, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/106363441"}, "geometry": {"type": "Point", "coordinates": [12.523608, 41.887832]}}]}

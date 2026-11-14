@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria in Via", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.901673, "lon": 12.481596, "confession": "catholic", "wikidata": "Q1785234", "source": "OpenStreetMap way/60616315"}, "geometry": {"type": "Point", "coordinates": [12.481596, 41.901673]}}]}

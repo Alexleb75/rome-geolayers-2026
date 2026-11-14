@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Tempio di Roma", "categorie": "Église", "municipio": "Municipio Roma III", "lat": 41.9705, "lon": 12.544815, "confession": "mormon", "wikidata": "Q3517684", "source": "OpenStreetMap way/473552689"}, "geometry": {"type": "Point", "coordinates": [12.544815, 41.9705]}}]}

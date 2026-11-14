@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa Evangelica Coreana di Roma", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.865238, "lon": 12.547014, "confession": "evangelical", "wikidata": "", "source": "OpenStreetMap node/5993824364"}, "geometry": {"type": "Point", "coordinates": [12.547014, 41.865238]}}]}

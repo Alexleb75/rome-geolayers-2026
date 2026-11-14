@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sant'Eusebio all'Esquilino", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.896337, "lon": 12.503787, "confession": "roman_catholic", "wikidata": "Q1785642", "source": "OpenStreetMap way/77626233"}, "geometry": {"type": "Point", "coordinates": [12.503787, 41.896337]}}]}

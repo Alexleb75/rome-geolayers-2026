@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Caterina dei Funari", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.894026, "lon": 12.478565, "confession": "catholic", "wikidata": "Q1134284", "source": "OpenStreetMap way/99368279"}, "geometry": {"type": "Point", "coordinates": [12.478565, 41.894026]}}]}

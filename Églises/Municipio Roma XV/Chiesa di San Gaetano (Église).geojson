@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Gaetano", "categorie": "Église", "municipio": "Municipio Roma XV", "lat": 41.951069, "lon": 12.473584, "confession": "roman_catholic", "wikidata": "Q16540121", "source": "OpenStreetMap way/455809085"}, "geometry": {"type": "Point", "coordinates": [12.473584, 41.951069]}}]}

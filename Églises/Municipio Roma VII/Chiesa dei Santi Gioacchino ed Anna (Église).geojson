@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa dei Santi Gioacchino ed Anna", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.85204, "lon": 12.587879, "confession": "catholic", "wikidata": "Q2063091", "source": "OpenStreetMap way/460763679"}, "geometry": {"type": "Point", "coordinates": [12.587879, 41.85204]}}]}

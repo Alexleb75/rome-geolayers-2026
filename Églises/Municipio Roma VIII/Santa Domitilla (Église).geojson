@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Domitilla", "categorie": "Église", "municipio": "Municipio Roma VIII", "lat": 41.85891, "lon": 12.50555, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/138523068"}, "geometry": {"type": "Point", "coordinates": [12.50555, 41.85891]}}]}

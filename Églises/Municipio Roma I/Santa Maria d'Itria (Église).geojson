@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria d'Itria", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.903117, "lon": 12.485919, "confession": "roman_catholic", "wikidata": "Q2223154", "source": "OpenStreetMap way/202304431"}, "geometry": {"type": "Point", "coordinates": [12.485919, 41.903117]}}]}

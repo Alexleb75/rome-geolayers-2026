@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Giovanni Calibita", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.89082, "lon": 12.477677, "confession": "catholic", "wikidata": "Q982618", "source": "OpenStreetMap way/126146477"}, "geometry": {"type": "Point", "coordinates": [12.477677, 41.89082]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Silvestro in Capite", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.903108, "lon": 12.480538, "confession": "catholic", "wikidata": "Q1625428", "source": "OpenStreetMap relation/449593"}, "geometry": {"type": "Point", "coordinates": [12.480538, 41.903108]}}]}

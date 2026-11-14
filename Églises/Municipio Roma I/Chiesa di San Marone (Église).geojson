@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Marone", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.907871, "lon": 12.487195, "confession": "maronite", "wikidata": "Q3671015", "source": "OpenStreetMap way/337871342"}, "geometry": {"type": "Point", "coordinates": [12.487195, 41.907871]}}]}

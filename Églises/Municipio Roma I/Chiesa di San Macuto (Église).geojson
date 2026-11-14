@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Macuto", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.899305, "lon": 12.479232, "confession": "catholic", "wikidata": "Q676902", "source": "OpenStreetMap way/130920751"}, "geometry": {"type": "Point", "coordinates": [12.479232, 41.899305]}}]}

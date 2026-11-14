@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Giuseppe Cafasso", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.873626, "lon": 12.545183, "confession": "catholic", "wikidata": "Q3585351", "source": "OpenStreetMap way/1110513284"}, "geometry": {"type": "Point", "coordinates": [12.545183, 41.873626]}}]}

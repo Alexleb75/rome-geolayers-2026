@@ -17,10 +17,13 @@ Monuments/  Colisée (Monument)
 Lieux/      Roma Termini (Gare)            emprise des bâtiments de la gare
             Mercato Esquilino (Marché)     Nuovo Mercato Esquilino
 Collines/   Aventin (Colline)              point du sommet
+Églises/    <Municipio>/<nom> (Église)     point GPS — 696 églises et basiliques
+            (15 municipi de la commune de Rome + Vatican ; chapelles et oratoires exclus)
 ```
 
-## Agrégat (racine)
-`rome-tout.geojson` : toutes les entités dans un seul fichier.
+## Agrégats (racine)
+`rome-tout.geojson` : toutes les entités ci-dessus sauf les églises.
+`rome-eglises.geojson` : toutes les églises dans un seul fichier (propriétés `municipio`, `confession`, `wikidata`).
 
 ## Propriétés
 `name` (FR), `name_it`, `categorie`, `lat`/`lon` (point représentatif), `source`.

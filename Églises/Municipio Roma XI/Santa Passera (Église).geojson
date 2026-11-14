@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Passera", "categorie": "Église", "municipio": "Municipio Roma XI", "lat": 41.858501, "lon": 12.460245, "confession": "catholic", "wikidata": "Q3674186", "source": "OpenStreetMap way/483448084"}, "geometry": {"type": "Point", "coordinates": [12.460245, 41.858501]}}]}

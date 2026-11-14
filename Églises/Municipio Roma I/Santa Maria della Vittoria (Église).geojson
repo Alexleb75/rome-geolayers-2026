@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria della Vittoria", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.904723, "lon": 12.494184, "confession": "catholic", "wikidata": "Q863593", "source": "OpenStreetMap way/52457969"}, "geometry": {"type": "Point", "coordinates": [12.494184, 41.904723]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Gesù Buon Pastore", "categorie": "Église", "municipio": "Municipio Roma VIII", "lat": 41.845784, "lon": 12.482336, "confession": "roman_catholic", "wikidata": "Q3669307", "source": "OpenStreetMap way/58897514"}, "geometry": {"type": "Point", "coordinates": [12.482336, 41.845784]}}]}

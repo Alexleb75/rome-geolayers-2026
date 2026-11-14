@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria della Pietà", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.901228, "lon": 12.454911, "confession": "catholic", "wikidata": "Q519310", "source": "OpenStreetMap way/149714726"}, "geometry": {"type": "Point", "coordinates": [12.454911, 41.901228]}}]}

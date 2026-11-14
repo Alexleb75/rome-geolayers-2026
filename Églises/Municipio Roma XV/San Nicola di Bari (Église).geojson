@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Nicola di Bari", "categorie": "Église", "municipio": "Municipio Roma XV", "lat": 42.082643, "lon": 12.349521, "confession": "catholic", "wikidata": "Q20102197", "source": "OpenStreetMap way/490872830"}, "geometry": {"type": "Point", "coordinates": [12.349521, 42.082643]}}]}

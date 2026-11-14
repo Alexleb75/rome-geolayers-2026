@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Giuda Taddeo", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.920894, "lon": 12.513072, "confession": "catholic", "wikidata": "Q3670583", "source": "OpenStreetMap way/370458743"}, "geometry": {"type": "Point", "coordinates": [12.513072, 41.920894]}}]}

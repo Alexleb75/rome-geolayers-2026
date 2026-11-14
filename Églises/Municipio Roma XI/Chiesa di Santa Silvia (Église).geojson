@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Silvia", "categorie": "Église", "municipio": "Municipio Roma XI", "lat": 41.856012, "lon": 12.44968, "confession": "catholic", "wikidata": "Q3674218", "source": "OpenStreetMap way/93666385"}, "geometry": {"type": "Point", "coordinates": [12.44968, 41.856012]}}]}

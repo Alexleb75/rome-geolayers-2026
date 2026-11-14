@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Chiara alla Borghesiana", "categorie": "Église", "municipio": "Municipio Roma VI", "lat": 41.86749, "lon": 12.669999, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/460164094"}, "geometry": {"type": "Point", "coordinates": [12.669999, 41.86749]}}]}

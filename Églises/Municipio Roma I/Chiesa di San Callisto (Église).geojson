@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Callisto", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.889034, "lon": 12.470321, "confession": "catholic", "wikidata": "Q202369", "source": "OpenStreetMap way/51368811"}, "geometry": {"type": "Point", "coordinates": [12.470321, 41.889034]}}]}

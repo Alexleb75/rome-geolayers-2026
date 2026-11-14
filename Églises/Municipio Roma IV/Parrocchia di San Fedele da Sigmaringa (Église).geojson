@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Parrocchia di San Fedele da Sigmaringa", "categorie": "Église", "municipio": "Municipio Roma IV", "lat": 41.925549, "lon": 12.534552, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/555550195"}, "geometry": {"type": "Point", "coordinates": [12.534552, 41.925549]}}]}

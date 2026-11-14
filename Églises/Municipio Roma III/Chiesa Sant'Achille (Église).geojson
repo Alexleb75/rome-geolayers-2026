@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa Sant'Achille", "categorie": "Église", "municipio": "Municipio Roma III", "lat": 41.948338, "lon": 12.558999, "confession": "catholic", "wikidata": "Q3672236", "source": "OpenStreetMap way/83486308"}, "geometry": {"type": "Point", "coordinates": [12.558999, 41.948338]}}]}

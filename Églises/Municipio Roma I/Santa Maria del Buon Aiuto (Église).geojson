@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria del Buon Aiuto", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.887614, "lon": 12.514636, "confession": "roman_catholic", "wikidata": "Q3585426", "source": "OpenStreetMap relation/13394473"}, "geometry": {"type": "Point", "coordinates": [12.514636, 41.887614]}}]}

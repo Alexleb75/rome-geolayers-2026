@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Egidio a Borgo", "categorie": "Église", "municipio": "Vatican", "lat": 41.904318, "lon": 12.457336, "confession": "catholic", "wikidata": "Q3672761", "source": "OpenStreetMap way/337888676"}, "geometry": {"type": "Point", "coordinates": [12.457336, 41.904318]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Alberto Magno", "categorie": "Église", "municipio": "Municipio Roma III", "lat": 41.964457, "lon": 12.534701, "confession": "", "wikidata": "Q27888121", "source": "OpenStreetMap way/553831768"}, "geometry": {"type": "Point", "coordinates": [12.534701, 41.964457]}}]}

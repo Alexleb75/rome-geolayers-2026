@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Giulia Billiart", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.876408, "lon": 12.539926, "confession": "catholic", "wikidata": "Q3673070", "source": "OpenStreetMap way/240248083"}, "geometry": {"type": "Point", "coordinates": [12.539926, 41.876408]}}]}

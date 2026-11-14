@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Basilio agli Orti Sallustiani", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.904922, "lon": 12.489874, "confession": "catholic", "wikidata": "Q3669578", "source": "OpenStreetMap way/203944602"}, "geometry": {"type": "Point", "coordinates": [12.489874, 41.904922]}}]}

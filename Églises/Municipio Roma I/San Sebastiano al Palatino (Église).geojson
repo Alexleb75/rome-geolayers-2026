@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Sebastiano al Palatino", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.88969, "lon": 12.488547, "confession": "catholic", "wikidata": "Q787605", "source": "OpenStreetMap relation/1836976"}, "geometry": {"type": "Point", "coordinates": [12.488547, 41.88969]}}]}

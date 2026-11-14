@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Rocco all'Augusteo", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.905506, "lon": 12.475873, "confession": "catholic", "wikidata": "Q3671940", "source": "OpenStreetMap way/201292278"}, "geometry": {"type": "Point", "coordinates": [12.475873, 41.905506]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di Sant'Eugenio", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.918613, "lon": 12.474738, "confession": "catholic", "wikidata": "Q2022218", "source": "OpenStreetMap way/166174702"}, "geometry": {"type": "Point", "coordinates": [12.474738, 41.918613]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Romualdo Abate", "categorie": "Église", "municipio": "Municipio Roma IX", "lat": 41.717979, "lon": 12.504265, "confession": "roman_catholic", "wikidata": "Q24939933", "source": "OpenStreetMap way/610008770"}, "geometry": {"type": "Point", "coordinates": [12.504265, 41.717979]}}]}

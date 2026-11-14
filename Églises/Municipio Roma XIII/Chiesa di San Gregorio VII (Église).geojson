@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Gregorio VII", "categorie": "Église", "municipio": "Municipio Roma XIII", "lat": 41.898124, "lon": 12.450121, "confession": "catholic", "wikidata": "Q2856327", "source": "OpenStreetMap way/108019914"}, "geometry": {"type": "Point", "coordinates": [12.450121, 41.898124]}}]}

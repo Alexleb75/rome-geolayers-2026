@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Lorenzo in Damaso", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.896855, "lon": 12.471803, "confession": "roman_catholic", "wikidata": "Q1886229", "source": "OpenStreetMap way/125915784"}, "geometry": {"type": "Point", "coordinates": [12.471803, 41.896855]}}]}

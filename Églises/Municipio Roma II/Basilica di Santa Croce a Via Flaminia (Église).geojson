@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di Santa Croce a Via Flaminia", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.928743, "lon": 12.467852, "confession": "", "wikidata": "Q1108778", "source": "OpenStreetMap way/201285055"}, "geometry": {"type": "Point", "coordinates": [12.467852, 41.928743]}}]}

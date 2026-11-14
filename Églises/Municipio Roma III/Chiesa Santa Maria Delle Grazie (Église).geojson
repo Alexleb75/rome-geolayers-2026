@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa Santa Maria Delle Grazie", "categorie": "Église", "municipio": "Municipio Roma III", "lat": 41.966744, "lon": 12.551009, "confession": "catholic", "wikidata": "Q121869989", "source": "OpenStreetMap way/485462782"}, "geometry": {"type": "Point", "coordinates": [12.551009, 41.966744]}}]}

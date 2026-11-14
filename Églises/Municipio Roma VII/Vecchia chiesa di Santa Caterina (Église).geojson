@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Vecchia chiesa di Santa Caterina", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.874139, "lon": 12.507473, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/355331614"}, "geometry": {"type": "Point", "coordinates": [12.507473, 41.874139]}}]}

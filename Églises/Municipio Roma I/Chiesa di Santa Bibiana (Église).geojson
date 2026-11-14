@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Bibiana", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.895545, "lon": 12.509242, "confession": "catholic", "wikidata": "Q1815475", "source": "OpenStreetMap way/141407415"}, "geometry": {"type": "Point", "coordinates": [12.509242, 41.895545]}}]}

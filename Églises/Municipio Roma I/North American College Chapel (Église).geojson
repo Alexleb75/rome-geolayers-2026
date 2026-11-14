@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "North American College Chapel", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.897816, "lon": 12.459304, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap node/12882685875"}, "geometry": {"type": "Point", "coordinates": [12.459304, 41.897816]}}]}

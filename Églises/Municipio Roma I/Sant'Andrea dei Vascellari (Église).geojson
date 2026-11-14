@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sant'Andrea dei Vascellari", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.888194, "lon": 12.477706, "confession": "catholic", "wikidata": "Q3672480", "source": "OpenStreetMap way/202980177"}, "geometry": {"type": "Point", "coordinates": [12.477706, 41.888194]}}]}

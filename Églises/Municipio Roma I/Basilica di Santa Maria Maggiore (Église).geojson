@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di Santa Maria Maggiore", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.897608, "lon": 12.498458, "confession": "catholic", "wikidata": "Q186282", "source": "OpenStreetMap way/131564482"}, "geometry": {"type": "Point", "coordinates": [12.498458, 41.897608]}}]}

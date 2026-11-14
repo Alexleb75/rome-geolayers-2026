@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di San Pietro", "categorie": "Église", "municipio": "Vatican", "lat": 41.902162, "lon": 12.453713, "confession": "roman_catholic", "wikidata": "Q12512", "source": "OpenStreetMap way/244159210"}, "geometry": {"type": "Point", "coordinates": [12.453713, 41.902162]}}]}

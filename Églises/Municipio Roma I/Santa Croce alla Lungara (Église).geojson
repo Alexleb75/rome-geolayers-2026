@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Croce alla Lungara", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.894391, "lon": 12.465922, "confession": "roman_catholic", "wikidata": "Q3673033", "source": "OpenStreetMap way/204154962"}, "geometry": {"type": "Point", "coordinates": [12.465922, 41.894391]}}]}

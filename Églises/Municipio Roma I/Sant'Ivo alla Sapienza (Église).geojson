@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sant'Ivo alla Sapienza", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.898189, "lon": 12.474849, "confession": "catholic", "wikidata": "Q1324617", "source": "OpenStreetMap way/128740194"}, "geometry": {"type": "Point", "coordinates": [12.474849, 41.898189]}}]}

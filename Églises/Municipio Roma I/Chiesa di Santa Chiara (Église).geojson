@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Chiara", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.897357, "lon": 12.476541, "confession": "catholic", "wikidata": "Q2222819", "source": "OpenStreetMap way/128740178"}, "geometry": {"type": "Point", "coordinates": [12.476541, 41.897357]}}]}

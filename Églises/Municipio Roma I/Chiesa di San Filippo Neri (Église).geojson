@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Filippo Neri", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.897088, "lon": 12.467468, "confession": "", "wikidata": "Q3669995", "source": "OpenStreetMap way/127840327"}, "geometry": {"type": "Point", "coordinates": [12.467468, 41.897088]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Andrea Apostolo", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.812476, "lon": 12.630385, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/882907686"}, "geometry": {"type": "Point", "coordinates": [12.630385, 41.812476]}}]}

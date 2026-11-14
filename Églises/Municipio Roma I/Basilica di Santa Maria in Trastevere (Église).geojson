@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di Santa Maria in Trastevere", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.889426, "lon": 12.469494, "confession": "catholic", "wikidata": "Q1137391", "source": "OpenStreetMap way/51368975"}, "geometry": {"type": "Point", "coordinates": [12.469494, 41.889426]}}]}

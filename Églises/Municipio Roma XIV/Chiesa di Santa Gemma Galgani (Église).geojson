@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Gemma Galgani", "categorie": "Église", "municipio": "Municipio Roma XIV", "lat": 41.926697, "lon": 12.367044, "confession": "catholic", "wikidata": "Q3673060", "source": "OpenStreetMap way/331952878"}, "geometry": {"type": "Point", "coordinates": [12.367044, 41.926697]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa della Natività di Gesù", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.898049, "lon": 12.472057, "confession": "roman_catholic", "wikidata": "Q3580184", "source": "OpenStreetMap way/128244658"}, "geometry": {"type": "Point", "coordinates": [12.472057, 41.898049]}}]}

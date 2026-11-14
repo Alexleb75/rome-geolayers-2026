@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria della Presentazione", "categorie": "Église", "municipio": "Municipio Roma XIII", "lat": 41.912269, "lon": 12.400886, "confession": "catholic", "wikidata": "Q3472704", "source": "OpenStreetMap way/108876030"}, "geometry": {"type": "Point", "coordinates": [12.400886, 41.912269]}}]}

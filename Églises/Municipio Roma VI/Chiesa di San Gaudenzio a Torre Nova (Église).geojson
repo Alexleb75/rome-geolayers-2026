@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Gaudenzio a Torre Nova", "categorie": "Église", "municipio": "Municipio Roma VI", "lat": 41.857769, "lon": 12.61628, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/529468883"}, "geometry": {"type": "Point", "coordinates": [12.61628, 41.857769]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Pio V", "categorie": "Église", "municipio": "Municipio Roma XIII", "lat": 41.896503, "lon": 12.431375, "confession": "catholic", "wikidata": "Q3671811", "source": "OpenStreetMap way/128972102"}, "geometry": {"type": "Point", "coordinates": [12.431375, 41.896503]}}]}

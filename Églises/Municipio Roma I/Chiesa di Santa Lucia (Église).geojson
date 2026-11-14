@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Lucia", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.919435, "lon": 12.456443, "confession": "roman_catholic", "wikidata": "Q3673116", "source": "OpenStreetMap way/366954186"}, "geometry": {"type": "Point", "coordinates": [12.456443, 41.919435]}}]}

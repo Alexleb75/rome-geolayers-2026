@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Barbara dei Librai", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.894817, "lon": 12.473729, "confession": "roman_catholic", "wikidata": "Q2222773", "source": "OpenStreetMap way/127586110"}, "geometry": {"type": "Point", "coordinates": [12.473729, 41.894817]}}]}

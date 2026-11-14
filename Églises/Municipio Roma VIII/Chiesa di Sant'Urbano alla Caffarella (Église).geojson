@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Urbano alla Caffarella", "categorie": "Église", "municipio": "Municipio Roma VIII", "lat": 41.85787, "lon": 12.524318, "confession": "catholic", "wikidata": "Q3672882", "source": "OpenStreetMap way/23956788"}, "geometry": {"type": "Point", "coordinates": [12.524318, 41.85787]}}]}

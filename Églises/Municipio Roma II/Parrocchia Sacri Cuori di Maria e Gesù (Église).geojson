@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Parrocchia Sacri Cuori di Maria e Gesù", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.934314, "lon": 12.5113, "confession": "catholic", "wikidata": "Q3668062", "source": "OpenStreetMap way/374261984"}, "geometry": {"type": "Point", "coordinates": [12.5113, 41.934314]}}]}

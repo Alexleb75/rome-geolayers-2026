@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Pietro in Montorio", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.888564, "lon": 12.466413, "confession": "catholic", "wikidata": "Q1258576", "source": "OpenStreetMap way/67115328"}, "geometry": {"type": "Point", "coordinates": [12.466413, 41.888564]}}]}

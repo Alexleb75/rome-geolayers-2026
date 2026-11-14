@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa del Gesù", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.895921, "lon": 12.479807, "confession": "catholic", "wikidata": "Q719794", "source": "OpenStreetMap way/25610962"}, "geometry": {"type": "Point", "coordinates": [12.479807, 41.895921]}}]}

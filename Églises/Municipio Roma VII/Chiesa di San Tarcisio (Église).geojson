@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Tarcisio", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.843372, "lon": 12.548073, "confession": "roman_catholic", "wikidata": "Q3672101", "source": "OpenStreetMap way/566117058"}, "geometry": {"type": "Point", "coordinates": [12.548073, 41.843372]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Stanislao", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.856771, "lon": 12.579287, "confession": "roman_catholic", "wikidata": "Q3672093", "source": "OpenStreetMap way/426234066"}, "geometry": {"type": "Point", "coordinates": [12.579287, 41.856771]}}]}

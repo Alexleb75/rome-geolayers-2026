@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Mauro Abate", "categorie": "Église", "municipio": "Municipio Roma IX", "lat": 41.812231, "lon": 12.484382, "confession": "", "wikidata": "Q121869952", "source": "OpenStreetMap way/151302582"}, "geometry": {"type": "Point", "coordinates": [12.484382, 41.812231]}}]}

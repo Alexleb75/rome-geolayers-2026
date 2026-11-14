@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Lazzaro in Borgo", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.915509, "lon": 12.450003, "confession": "catholic", "wikidata": "Q3670753", "source": "OpenStreetMap way/380401810"}, "geometry": {"type": "Point", "coordinates": [12.450003, 41.915509]}}]}

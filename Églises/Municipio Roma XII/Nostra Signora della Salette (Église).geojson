@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Nostra Signora della Salette", "categorie": "Église", "municipio": "Municipio Roma XII", "lat": 41.87573, "lon": 12.449019, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/137941092"}, "geometry": {"type": "Point", "coordinates": [12.449019, 41.87573]}}]}

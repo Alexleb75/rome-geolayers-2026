@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di Santa Maria Ausiliatrice", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.874437, "lon": 12.530186, "confession": "catholic", "wikidata": "Q511226", "source": "OpenStreetMap way/32217306"}, "geometry": {"type": "Point", "coordinates": [12.530186, 41.874437]}}]}

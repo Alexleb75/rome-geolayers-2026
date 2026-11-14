@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Angela Merici", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.923364, "lon": 12.52529, "confession": "catholic", "wikidata": "Q3672495", "source": "OpenStreetMap way/24240337"}, "geometry": {"type": "Point", "coordinates": [12.52529, 41.923364]}}]}

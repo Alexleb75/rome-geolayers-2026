@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sacro Cuore del Suffragio", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.904191, "lon": 12.472268, "confession": "roman_catholic", "wikidata": "Q3668606", "source": "OpenStreetMap relation/19373247"}, "geometry": {"type": "Point", "coordinates": [12.472268, 41.904191]}}]}

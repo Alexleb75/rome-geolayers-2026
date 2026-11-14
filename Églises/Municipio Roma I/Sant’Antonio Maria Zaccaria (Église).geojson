@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sant’Antonio Maria Zaccaria", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.885552, "lon": 12.462705, "confession": "roman_catholic", "wikidata": "Q16540535", "source": "OpenStreetMap way/203299976"}, "geometry": {"type": "Point", "coordinates": [12.462705, 41.885552]}}]}

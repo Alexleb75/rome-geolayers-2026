@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria Addolorata", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.896304, "lon": 12.558185, "confession": "catholic", "wikidata": "Q3673234", "source": "OpenStreetMap way/328257314"}, "geometry": {"type": "Point", "coordinates": [12.558185, 41.896304]}}]}

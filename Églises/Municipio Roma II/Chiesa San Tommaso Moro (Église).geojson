@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa San Tommaso Moro", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.899495, "lon": 12.513368, "confession": "catholic", "wikidata": "Q3672135", "source": "OpenStreetMap way/223391111"}, "geometry": {"type": "Point", "coordinates": [12.513368, 41.899495]}}]}

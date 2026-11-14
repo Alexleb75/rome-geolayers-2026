@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Giorgio in Velabro", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.889622, "lon": 12.483165, "confession": "catholic", "wikidata": "Q517374", "source": "OpenStreetMap way/123971348"}, "geometry": {"type": "Point", "coordinates": [12.483165, 41.889622]}}]}

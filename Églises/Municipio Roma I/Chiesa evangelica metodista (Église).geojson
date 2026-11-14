@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa evangelica metodista", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.903398, "lon": 12.492979, "confession": "methodist", "wikidata": "", "source": "OpenStreetMap node/11005533027"}, "geometry": {"type": "Point", "coordinates": [12.492979, 41.903398]}}]}

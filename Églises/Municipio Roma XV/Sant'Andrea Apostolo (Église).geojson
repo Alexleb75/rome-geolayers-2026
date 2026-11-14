@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sant'Andrea Apostolo", "categorie": "Église", "municipio": "Municipio Roma XV", "lat": 42.036616, "lon": 12.305358, "confession": "catholic", "wikidata": "Q123375103", "source": "OpenStreetMap way/758388873"}, "geometry": {"type": "Point", "coordinates": [12.305358, 42.036616]}}]}

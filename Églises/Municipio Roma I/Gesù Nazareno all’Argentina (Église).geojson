@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Gesù Nazareno all’Argentina", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.895304, "lon": 12.475647, "confession": "catholic", "wikidata": "Q3669315", "source": "OpenStreetMap way/125831712"}, "geometry": {"type": "Point", "coordinates": [12.475647, 41.895304]}}]}

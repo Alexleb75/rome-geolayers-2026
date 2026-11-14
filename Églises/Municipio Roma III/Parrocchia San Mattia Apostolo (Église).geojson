@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Parrocchia San Mattia Apostolo", "categorie": "Église", "municipio": "Municipio Roma III", "lat": 41.946432, "lon": 12.552278, "confession": "catholic", "wikidata": "Q3671174", "source": "OpenStreetMap way/83488964"}, "geometry": {"type": "Point", "coordinates": [12.552278, 41.946432]}}]}

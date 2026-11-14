@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Raimondo Nonnato", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.83786, "lon": 12.581632, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/173155811"}, "geometry": {"type": "Point", "coordinates": [12.581632, 41.83786]}}]}

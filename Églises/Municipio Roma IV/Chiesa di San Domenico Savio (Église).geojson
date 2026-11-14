@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Domenico Savio", "categorie": "Église", "municipio": "Municipio Roma IV", "lat": 41.928456, "lon": 12.578279, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap node/8264817632"}, "geometry": {"type": "Point", "coordinates": [12.578279, 41.928456]}}]}

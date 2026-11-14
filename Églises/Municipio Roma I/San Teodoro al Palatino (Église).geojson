@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Teodoro al Palatino", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.89048, "lon": 12.484676, "confession": "greek_orthodox", "wikidata": "Q926539", "source": "OpenStreetMap relation/13346196"}, "geometry": {"type": "Point", "coordinates": [12.484676, 41.89048]}}]}

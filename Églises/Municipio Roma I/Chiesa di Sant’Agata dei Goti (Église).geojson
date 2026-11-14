@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant’Agata dei Goti", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.896419, "lon": 12.48929, "confession": "catholic", "wikidata": "Q1270759", "source": "OpenStreetMap relation/2706708"}, "geometry": {"type": "Point", "coordinates": [12.48929, 41.896419]}}]}

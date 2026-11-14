@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Nostra Signora di Valme", "categorie": "Église", "municipio": "Municipio Roma XI", "lat": 41.846571, "lon": 12.454033, "confession": "catholic", "wikidata": "Q3669439", "source": "OpenStreetMap way/539896589"}, "geometry": {"type": "Point", "coordinates": [12.454033, 41.846571]}}]}

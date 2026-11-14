@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria in Via Lata", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.898123, "lon": 12.481307, "confession": "catholic", "wikidata": "Q846559", "source": "OpenStreetMap way/130807533"}, "geometry": {"type": "Point", "coordinates": [12.481307, 41.898123]}}]}

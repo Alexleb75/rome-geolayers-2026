@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Paolo alla Regola", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.89294, "lon": 12.47345, "confession": "roman_catholic", "wikidata": "Q3585374", "source": "OpenStreetMap way/127453471"}, "geometry": {"type": "Point", "coordinates": [12.47345, 41.89294]}}]}

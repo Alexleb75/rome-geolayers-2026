@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di Santa Balbina", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.880538, "lon": 12.489671, "confession": "catholic", "wikidata": "Q2354657", "source": "OpenStreetMap way/52134171"}, "geometry": {"type": "Point", "coordinates": [12.489671, 41.880538]}}]}

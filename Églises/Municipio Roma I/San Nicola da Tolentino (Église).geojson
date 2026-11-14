@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Nicola da Tolentino", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.905214, "lon": 12.491435, "confession": "armenian_catholic", "wikidata": "Q1097292", "source": "OpenStreetMap way/203944603"}, "geometry": {"type": "Point", "coordinates": [12.491435, 41.905214]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Liborio", "categorie": "Église", "municipio": "Municipio Roma IV", "lat": 41.942221, "lon": 12.567389, "confession": "roman_catholic", "wikidata": "Q3670811", "source": "OpenStreetMap way/33536520"}, "geometry": {"type": "Point", "coordinates": [12.567389, 41.942221]}}]}

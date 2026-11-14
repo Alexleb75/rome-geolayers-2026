@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di San Pancrazio", "categorie": "Église", "municipio": "Municipio Roma XII", "lat": 41.884941, "lon": 12.453967, "confession": "catholic", "wikidata": "Q1515307", "source": "OpenStreetMap way/135189103"}, "geometry": {"type": "Point", "coordinates": [12.453967, 41.884941]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Nicola in Carcere", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.891105, "lon": 12.479958, "confession": "catholic", "wikidata": "Q2145580", "source": "OpenStreetMap way/52919045"}, "geometry": {"type": "Point", "coordinates": [12.479958, 41.891105]}}]}

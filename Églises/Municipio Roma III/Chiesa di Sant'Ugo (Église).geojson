@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Ugo", "categorie": "Église", "municipio": "Municipio Roma III", "lat": 41.963929, "lon": 12.517719, "confession": "", "wikidata": "Q3672878", "source": "OpenStreetMap relation/5939082"}, "geometry": {"type": "Point", "coordinates": [12.517719, 41.963929]}}]}

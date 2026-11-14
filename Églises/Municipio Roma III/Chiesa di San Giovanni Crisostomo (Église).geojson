@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Giovanni Crisostomo", "categorie": "Église", "municipio": "Municipio Roma III", "lat": 41.940515, "lon": 12.543146, "confession": "catholic", "wikidata": "Q3670503", "source": "OpenStreetMap way/372870285"}, "geometry": {"type": "Point", "coordinates": [12.543146, 41.940515]}}]}

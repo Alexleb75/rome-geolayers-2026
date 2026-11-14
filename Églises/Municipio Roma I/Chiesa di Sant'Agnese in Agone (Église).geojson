@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Agnese in Agone", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.898736, "lon": 12.472581, "confession": "catholic", "wikidata": "Q1192577", "source": "OpenStreetMap way/52333460"}, "geometry": {"type": "Point", "coordinates": [12.472581, 41.898736]}}]}

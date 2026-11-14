@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria Consolatrice", "categorie": "Église", "municipio": "Municipio Roma IV", "lat": 41.897525, "lon": 12.535196, "confession": "catholic", "wikidata": "Q3673393", "source": "OpenStreetMap way/222155639"}, "geometry": {"type": "Point", "coordinates": [12.535196, 41.897525]}}]}

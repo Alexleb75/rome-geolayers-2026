@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant’Eligio ad Ovile", "categorie": "Église", "municipio": "Municipio Roma VI", "lat": 41.905728, "lon": 12.684008, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/574946145"}, "geometry": {"type": "Point", "coordinates": [12.684008, 41.905728]}}]}

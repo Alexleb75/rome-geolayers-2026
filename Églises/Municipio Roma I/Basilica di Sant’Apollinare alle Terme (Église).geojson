@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di Sant’Apollinare alle Terme", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.900962, "lon": 12.473684, "confession": "catholic", "wikidata": "Q2301521", "source": "OpenStreetMap way/53638757"}, "geometry": {"type": "Point", "coordinates": [12.473684, 41.900962]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa dei Santi Michele e Magno", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.901405, "lon": 12.458873, "confession": "roman_catholic", "wikidata": "Q28082", "source": "OpenStreetMap way/113800553"}, "geometry": {"type": "Point", "coordinates": [12.458873, 41.901405]}}]}

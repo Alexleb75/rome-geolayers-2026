@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa Apostolica", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.874668, "lon": 12.547493, "confession": "", "wikidata": "", "source": "OpenStreetMap node/12556187985"}, "geometry": {"type": "Point", "coordinates": [12.547493, 41.874668]}}]}

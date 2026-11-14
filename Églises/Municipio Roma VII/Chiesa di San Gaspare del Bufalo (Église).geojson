@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Gaspare del Bufalo", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.866369, "lon": 12.532697, "confession": "catholic", "wikidata": "Q3670197", "source": "OpenStreetMap relation/7669227"}, "geometry": {"type": "Point", "coordinates": [12.532697, 41.866369]}}]}

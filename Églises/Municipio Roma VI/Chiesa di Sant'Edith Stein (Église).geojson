@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Edith Stein", "categorie": "Église", "municipio": "Municipio Roma VI", "lat": 41.873075, "lon": 12.653376, "confession": "roman_catholic", "wikidata": "Q3672748", "source": "OpenStreetMap way/702101229"}, "geometry": {"type": "Point", "coordinates": [12.653376, 41.873075]}}]}

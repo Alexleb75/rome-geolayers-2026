@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Marcello al Corso", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.898682, "lon": 12.481991, "confession": "catholic", "wikidata": "Q972881", "source": "OpenStreetMap way/52458908"}, "geometry": {"type": "Point", "coordinates": [12.481991, 41.898682]}}]}

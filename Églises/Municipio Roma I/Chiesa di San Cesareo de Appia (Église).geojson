@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Cesareo de Appia", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.878551, "lon": 12.496975, "confession": "roman_catholic", "wikidata": "Q1439551", "source": "OpenStreetMap way/103127203"}, "geometry": {"type": "Point", "coordinates": [12.496975, 41.878551]}}]}

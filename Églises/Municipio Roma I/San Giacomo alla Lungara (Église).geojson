@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Giacomo alla Lungara", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.894997, "lon": 12.465981, "confession": "roman_catholic", "wikidata": "Q3670275", "source": "OpenStreetMap way/131564943"}, "geometry": {"type": "Point", "coordinates": [12.465981, 41.894997]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di Sant'Agostino", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.901063, "lon": 12.47427, "confession": "roman_catholic", "wikidata": "Q1424095", "source": "OpenStreetMap way/798082894"}, "geometry": {"type": "Point", "coordinates": [12.47427, 41.901063]}}]}

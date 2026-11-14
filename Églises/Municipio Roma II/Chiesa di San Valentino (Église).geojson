@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Valentino", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.933008, "lon": 12.472925, "confession": "catholic", "wikidata": "Q3672148", "source": "OpenStreetMap way/220540238"}, "geometry": {"type": "Point", "coordinates": [12.472925, 41.933008]}}]}

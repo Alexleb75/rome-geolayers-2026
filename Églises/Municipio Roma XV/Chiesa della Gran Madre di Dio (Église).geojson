@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa della Gran Madre di Dio", "categorie": "Église", "municipio": "Municipio Roma XV", "lat": 41.938482, "lon": 12.46559, "confession": "roman_catholic", "wikidata": "Q2597253", "source": "OpenStreetMap way/175716503"}, "geometry": {"type": "Point", "coordinates": [12.46559, 41.938482]}}]}

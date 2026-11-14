@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria ai Monti", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.894723, "lon": 12.490581, "confession": "catholic", "wikidata": "Q2095195", "source": "OpenStreetMap way/157407146"}, "geometry": {"type": "Point", "coordinates": [12.490581, 41.894723]}}]}

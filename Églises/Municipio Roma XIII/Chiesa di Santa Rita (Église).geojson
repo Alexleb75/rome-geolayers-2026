@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Rita", "categorie": "Église", "municipio": "Municipio Roma XIII", "lat": 41.916651, "lon": 12.368471, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap relation/16854528"}, "geometry": {"type": "Point", "coordinates": [12.368471, 41.916651]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sant'Atanasio", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.907839, "lon": 12.479343, "confession": "greek_catholic", "wikidata": "Q242053", "source": "OpenStreetMap way/60678483"}, "geometry": {"type": "Point", "coordinates": [12.479343, 41.907839]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria in Montesanto", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.90988, "lon": 12.476977, "confession": "catholic", "wikidata": "Q1809115", "source": "OpenStreetMap way/60517009"}, "geometry": {"type": "Point", "coordinates": [12.476977, 41.90988]}}]}

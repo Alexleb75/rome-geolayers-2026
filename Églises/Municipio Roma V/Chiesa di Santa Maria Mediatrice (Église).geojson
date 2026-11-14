@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria Mediatrice", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.885358, "lon": 12.550116, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/531907988"}, "geometry": {"type": "Point", "coordinates": [12.550116, 41.885358]}}]}

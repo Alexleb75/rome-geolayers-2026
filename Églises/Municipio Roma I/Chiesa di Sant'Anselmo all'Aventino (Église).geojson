@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Anselmo all'Aventino", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.882193, "lon": 12.477983, "confession": "catholic", "wikidata": "Q2223864", "source": "OpenStreetMap relation/418303"}, "geometry": {"type": "Point", "coordinates": [12.477983, 41.882193]}}]}

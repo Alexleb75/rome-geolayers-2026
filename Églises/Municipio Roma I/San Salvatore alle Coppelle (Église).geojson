@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Salvatore alle Coppelle", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.900637, "lon": 12.476028, "confession": "greek_catholic", "wikidata": "Q2220033", "source": "OpenStreetMap way/89985340"}, "geometry": {"type": "Point", "coordinates": [12.476028, 41.900637]}}]}

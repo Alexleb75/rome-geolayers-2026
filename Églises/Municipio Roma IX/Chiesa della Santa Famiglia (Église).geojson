@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa della Santa Famiglia", "categorie": "Église", "municipio": "Municipio Roma IX", "lat": 41.777164, "lon": 12.544033, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap node/8190534499"}, "geometry": {"type": "Point", "coordinates": [12.544033, 41.777164]}}]}

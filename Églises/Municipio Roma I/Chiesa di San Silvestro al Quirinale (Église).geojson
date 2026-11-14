@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Silvestro al Quirinale", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.897287, "lon": 12.486544, "confession": "catholic", "wikidata": "Q1538594", "source": "OpenStreetMap way/204998147"}, "geometry": {"type": "Point", "coordinates": [12.486544, 41.897287]}}]}

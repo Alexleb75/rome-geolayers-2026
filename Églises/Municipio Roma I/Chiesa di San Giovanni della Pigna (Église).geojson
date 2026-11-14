@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Giovanni della Pigna", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.897323, "lon": 12.478088, "confession": "catholic", "wikidata": "Q3670550", "source": "OpenStreetMap way/130807532"}, "geometry": {"type": "Point", "coordinates": [12.478088, 41.897323]}}]}

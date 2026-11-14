@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa Cristiano Evangelica", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.85958, "lon": 12.572445, "confession": "evangelical", "wikidata": "", "source": "OpenStreetMap node/888509033"}, "geometry": {"type": "Point", "coordinates": [12.572445, 41.85958]}}]}

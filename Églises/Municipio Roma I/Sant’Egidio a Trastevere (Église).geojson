@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sant’Egidio a Trastevere", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.890096, "lon": 12.468678, "confession": "catholic", "wikidata": "Q1445530", "source": "OpenStreetMap way/164588480"}, "geometry": {"type": "Point", "coordinates": [12.468678, 41.890096]}}]}

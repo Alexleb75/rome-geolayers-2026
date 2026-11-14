@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Lorenzo in Panisperna", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.897445, "lon": 12.49326, "confession": "catholic", "wikidata": "Q2712352", "source": "OpenStreetMap way/151584968"}, "geometry": {"type": "Point", "coordinates": [12.49326, 41.897445]}}]}

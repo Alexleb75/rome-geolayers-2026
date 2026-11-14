@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di San Lorenzo in Lucina", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.903283, "lon": 12.478693, "confession": "catholic", "wikidata": "Q1515316", "source": "OpenStreetMap way/80220852"}, "geometry": {"type": "Point", "coordinates": [12.478693, 41.903283]}}]}

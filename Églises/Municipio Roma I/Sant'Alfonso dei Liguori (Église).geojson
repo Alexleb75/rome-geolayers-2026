@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sant'Alfonso dei Liguori", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.895768, "lon": 12.500446, "confession": "roman_catholic", "wikidata": "Q655114", "source": "OpenStreetMap way/81741055"}, "geometry": {"type": "Point", "coordinates": [12.500446, 41.895768]}}]}

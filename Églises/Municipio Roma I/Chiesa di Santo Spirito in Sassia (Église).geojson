@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santo Spirito in Sassia", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.901092, "lon": 12.461222, "confession": "catholic", "wikidata": "Q1428488", "source": "OpenStreetMap way/66832136"}, "geometry": {"type": "Point", "coordinates": [12.461222, 41.901092]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Filippo Apostolo", "categorie": "Église", "municipio": "Municipio Roma XV", "lat": 41.975591, "lon": 12.449653, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/889039726"}, "geometry": {"type": "Point", "coordinates": [12.449653, 41.975591]}}]}

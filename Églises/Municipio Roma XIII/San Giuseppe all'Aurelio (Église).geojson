@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Giuseppe all'Aurelio", "categorie": "Église", "municipio": "Municipio Roma XIII", "lat": 41.903253, "lon": 12.412883, "confession": "catholic", "wikidata": "Q3670678", "source": "OpenStreetMap way/110863214"}, "geometry": {"type": "Point", "coordinates": [12.412883, 41.903253]}}]}

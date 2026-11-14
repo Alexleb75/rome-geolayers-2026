@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Giulio", "categorie": "Église", "municipio": "Municipio Roma XII", "lat": 41.874417, "lon": 12.456715, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/377628965"}, "geometry": {"type": "Point", "coordinates": [12.456715, 41.874417]}}]}

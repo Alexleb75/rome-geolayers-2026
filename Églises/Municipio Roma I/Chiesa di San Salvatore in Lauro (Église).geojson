@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Salvatore in Lauro", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.900746, "lon": 12.469568, "confession": "roman_catholic", "wikidata": "Q659529", "source": "OpenStreetMap way/111532852"}, "geometry": {"type": "Point", "coordinates": [12.469568, 41.900746]}}]}

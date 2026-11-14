@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Galla", "categorie": "Église", "municipio": "Municipio Roma VIII", "lat": 41.867741, "lon": 12.489481, "confession": "catholic", "wikidata": "Q3673057", "source": "OpenStreetMap way/363223377"}, "geometry": {"type": "Point", "coordinates": [12.489481, 41.867741]}}]}

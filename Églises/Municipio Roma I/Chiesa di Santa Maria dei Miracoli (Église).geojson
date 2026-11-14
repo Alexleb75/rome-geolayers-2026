@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria dei Miracoli", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.909779, "lon": 12.476483, "confession": "catholic", "wikidata": "Q934416", "source": "OpenStreetMap way/60517021"}, "geometry": {"type": "Point", "coordinates": [12.476483, 41.909779]}}]}

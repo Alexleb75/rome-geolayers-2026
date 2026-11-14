@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di San Martino ai Monti", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.894605, "lon": 12.498235, "confession": "catholic", "wikidata": "Q1663278", "source": "OpenStreetMap way/52721562"}, "geometry": {"type": "Point", "coordinates": [12.498235, 41.894605]}}]}

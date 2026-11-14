@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di S. Vincenzo de’ Paoli", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.901617, "lon": 12.59003, "confession": "roman_catholic", "wikidata": "Q30303024", "source": "OpenStreetMap way/531629536"}, "geometry": {"type": "Point", "coordinates": [12.59003, 41.901617]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Restituta", "categorie": "Église", "municipio": "Municipio Roma IV", "lat": 41.930016, "lon": 12.660001, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/888509303"}, "geometry": {"type": "Point", "coordinates": [12.660001, 41.930016]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sant'Alessandro", "categorie": "Église", "municipio": "Municipio Roma IV", "lat": 41.962105, "lon": 12.594234, "confession": "roman_catholic", "wikidata": "Q3663208", "source": "OpenStreetMap way/261584567"}, "geometry": {"type": "Point", "coordinates": [12.594234, 41.962105]}}]}

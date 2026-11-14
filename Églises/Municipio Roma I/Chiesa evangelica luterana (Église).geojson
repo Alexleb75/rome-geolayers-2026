@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa evangelica luterana", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.908972, "lon": 12.491708, "confession": "lutheran", "wikidata": "Q763543", "source": "OpenStreetMap way/52509644"}, "geometry": {"type": "Point", "coordinates": [12.491708, 41.908972]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria della Quercia", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.894714, "lon": 12.471787, "confession": "catholic", "wikidata": "Q3673906", "source": "OpenStreetMap way/128364593"}, "geometry": {"type": "Point", "coordinates": [12.471787, 41.894714]}}]}

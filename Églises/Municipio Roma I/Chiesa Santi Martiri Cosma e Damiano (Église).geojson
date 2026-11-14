@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa Santi Martiri Cosma e Damiano", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.874705, "lon": 12.489301, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/545436077"}, "geometry": {"type": "Point", "coordinates": [12.489301, 41.874705]}}]}

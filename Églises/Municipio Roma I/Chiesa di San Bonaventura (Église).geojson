@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Bonaventura", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.88882, "lon": 12.48848, "confession": "catholic", "wikidata": "Q167124", "source": "OpenStreetMap relation/1854240"}, "geometry": {"type": "Point", "coordinates": [12.48848, 41.88882]}}]}

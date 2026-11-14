@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Orsola", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.91528, "lon": 12.524404, "confession": "catholic", "wikidata": "Q3672869", "source": "OpenStreetMap relation/5486800"}, "geometry": {"type": "Point", "coordinates": [12.524404, 41.91528]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Gesù Divino Lavoratore", "categorie": "Église", "municipio": "Municipio Roma XI", "lat": 41.86892, "lon": 12.465954, "confession": "catholic", "wikidata": "Q1931303", "source": "OpenStreetMap way/140893543"}, "geometry": {"type": "Point", "coordinates": [12.465954, 41.86892]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Fraternita San Carlo Borromeo", "categorie": "Église", "municipio": "Municipio Roma XIII", "lat": 41.92348, "lon": 12.365001, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/88114643"}, "geometry": {"type": "Point", "coordinates": [12.365001, 41.92348]}}]}

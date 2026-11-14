@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Luigi Gonzaga", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.929342, "lon": 12.490097, "confession": "", "wikidata": "Q2382109", "source": "OpenStreetMap way/363341484"}, "geometry": {"type": "Point", "coordinates": [12.490097, 41.929342]}}]}

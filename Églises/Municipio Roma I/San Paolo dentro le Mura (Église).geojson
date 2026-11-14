@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Paolo dentro le Mura", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.901065, "lon": 12.494275, "confession": "anglican", "wikidata": "Q3585375", "source": "OpenStreetMap way/201319582"}, "geometry": {"type": "Point", "coordinates": [12.494275, 41.901065]}}]}

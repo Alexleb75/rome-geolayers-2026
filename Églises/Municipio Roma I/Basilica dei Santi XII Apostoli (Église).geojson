@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica dei Santi XII Apostoli", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.898082, "lon": 12.483474, "confession": "catholic", "wikidata": "Q1515300", "source": "OpenStreetMap relation/2054912"}, "geometry": {"type": "Point", "coordinates": [12.483474, 41.898082]}}]}

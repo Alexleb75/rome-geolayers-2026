@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Tarcisio", "categorie": "Église", "municipio": "Municipio Roma VIII", "lat": 41.861538, "lon": 12.5084, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/266623014"}, "geometry": {"type": "Point", "coordinates": [12.5084, 41.861538]}}]}

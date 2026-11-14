@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Church of San Primitivo", "categorie": "Église", "municipio": "Municipio Roma VI", "lat": 41.887114, "lon": 12.721319, "confession": "", "wikidata": "Q139600903", "source": "OpenStreetMap way/215648074"}, "geometry": {"type": "Point", "coordinates": [12.721319, 41.887114]}}]}

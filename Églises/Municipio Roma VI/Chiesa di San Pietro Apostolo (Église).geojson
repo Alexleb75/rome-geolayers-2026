@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Pietro Apostolo", "categorie": "Église", "municipio": "Municipio Roma VI", "lat": 41.925185, "lon": 12.667132, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/888509745"}, "geometry": {"type": "Point", "coordinates": [12.667132, 41.925185]}}]}

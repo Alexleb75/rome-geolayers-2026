@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Parrocchia San Paolo della Croce", "categorie": "Église", "municipio": "Municipio Roma XI", "lat": 41.85393, "lon": 12.414301, "confession": "catholic", "wikidata": "Q42435651", "source": "OpenStreetMap way/705211055"}, "geometry": {"type": "Point", "coordinates": [12.414301, 41.85393]}}]}

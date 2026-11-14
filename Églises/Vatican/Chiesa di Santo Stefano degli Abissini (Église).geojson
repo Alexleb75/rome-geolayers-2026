@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santo Stefano degli Abissini", "categorie": "Église", "municipio": "Vatican", "lat": 41.901796, "lon": 12.451961, "confession": "roman_catholic", "wikidata": "Q1166213", "source": "OpenStreetMap way/130743575"}, "geometry": {"type": "Point", "coordinates": [12.451961, 41.901796]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria Goretti", "categorie": "Église", "municipio": "Municipio Roma XII", "lat": 41.869866, "lon": 12.357708, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/489919220"}, "geometry": {"type": "Point", "coordinates": [12.357708, 41.869866]}}]}

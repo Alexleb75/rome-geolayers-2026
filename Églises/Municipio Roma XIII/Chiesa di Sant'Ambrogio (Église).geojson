@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Ambrogio", "categorie": "Église", "municipio": "Municipio Roma XIII", "lat": 41.900436, "lon": 12.435124, "confession": "roman_catholic", "wikidata": "Q3672368", "source": "OpenStreetMap way/260586518"}, "geometry": {"type": "Point", "coordinates": [12.435124, 41.900436]}}]}

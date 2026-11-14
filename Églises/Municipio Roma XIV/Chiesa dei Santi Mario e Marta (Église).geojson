@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa dei Santi Mario e Marta", "categorie": "Église", "municipio": "Municipio Roma XIV", "lat": 41.963342, "lon": 12.314814, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/620378857"}, "geometry": {"type": "Point", "coordinates": [12.314814, 41.963342]}}]}

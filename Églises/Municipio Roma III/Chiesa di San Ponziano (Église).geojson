@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Ponziano", "categorie": "Église", "municipio": "Municipio Roma III", "lat": 41.947429, "lon": 12.544721, "confession": "roman_catholic", "wikidata": "Q3671824", "source": "OpenStreetMap way/335624929"}, "geometry": {"type": "Point", "coordinates": [12.544721, 41.947429]}}]}

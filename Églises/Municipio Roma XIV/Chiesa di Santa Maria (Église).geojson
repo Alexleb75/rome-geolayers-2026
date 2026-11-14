@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria", "categorie": "Église", "municipio": "Municipio Roma XIV", "lat": 41.927088, "lon": 12.365385, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/802564970"}, "geometry": {"type": "Point", "coordinates": [12.365385, 41.927088]}}]}

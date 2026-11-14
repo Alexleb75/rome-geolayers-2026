@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Brigida", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.89531, "lon": 12.47077, "confession": "catholic", "wikidata": "Q1585598", "source": "OpenStreetMap way/149541607"}, "geometry": {"type": "Point", "coordinates": [12.47077, 41.89531]}}]}

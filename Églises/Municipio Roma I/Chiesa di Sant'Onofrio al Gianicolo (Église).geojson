@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Onofrio al Gianicolo", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.897254, "lon": 12.461226, "confession": "catholic", "wikidata": "Q1627320", "source": "OpenStreetMap way/114669888"}, "geometry": {"type": "Point", "coordinates": [12.461226, 41.897254]}}]}

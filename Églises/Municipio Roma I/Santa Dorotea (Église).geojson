@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Dorotea", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.892212, "lon": 12.468149, "confession": "roman_catholic", "wikidata": "Q426226", "source": "OpenStreetMap way/204145400"}, "geometry": {"type": "Point", "coordinates": [12.468149, 41.892212]}}]}

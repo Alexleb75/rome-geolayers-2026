@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Gregorio dei Muratori", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.904294, "lon": 12.474962, "confession": "catholic", "wikidata": "Q3670719", "source": "OpenStreetMap way/1503417769"}, "geometry": {"type": "Point", "coordinates": [12.474962, 41.904294]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa del Bambin Gesù a via Urbana", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.897912, "lon": 12.495865, "confession": "catholic", "wikidata": "Q805962", "source": "OpenStreetMap way/201628993"}, "geometry": {"type": "Point", "coordinates": [12.495865, 41.897912]}}]}

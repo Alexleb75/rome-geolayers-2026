@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Lucia in Selci", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.894526, "lon": 12.496841, "confession": "catholic", "wikidata": "Q911564", "source": "OpenStreetMap way/348410738"}, "geometry": {"type": "Point", "coordinates": [12.496841, 41.894526]}}]}

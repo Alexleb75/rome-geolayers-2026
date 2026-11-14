@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Bernardo alle Terme", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.903586, "lon": 12.494498, "confession": "roman_catholic", "wikidata": "Q1568136", "source": "OpenStreetMap way/203947126"}, "geometry": {"type": "Point", "coordinates": [12.494498, 41.903586]}}]}

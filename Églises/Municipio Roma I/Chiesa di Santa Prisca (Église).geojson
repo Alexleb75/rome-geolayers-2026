@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Prisca", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.883072, "lon": 12.483964, "confession": "catholic", "wikidata": "Q1750627", "source": "OpenStreetMap way/53762827"}, "geometry": {"type": "Point", "coordinates": [12.483964, 41.883072]}}]}

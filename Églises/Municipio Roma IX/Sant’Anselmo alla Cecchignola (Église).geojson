@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sant’Anselmo alla Cecchignola", "categorie": "Église", "municipio": "Municipio Roma IX", "lat": 41.814403, "lon": 12.508135, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap node/8190506038"}, "geometry": {"type": "Point", "coordinates": [12.508135, 41.814403]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Caterina a Magnanapoli", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.895905, "lon": 12.486888, "confession": "roman_catholic", "wikidata": "Q727508", "source": "OpenStreetMap relation/13427100"}, "geometry": {"type": "Point", "coordinates": [12.486888, 41.895905]}}]}

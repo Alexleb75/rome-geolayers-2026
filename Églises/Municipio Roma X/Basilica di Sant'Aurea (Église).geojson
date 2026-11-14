@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di Sant'Aurea", "categorie": "Église", "municipio": "Municipio Roma X", "lat": 41.759357, "lon": 12.301844, "confession": "roman_catholic", "wikidata": "Q2887127", "source": "OpenStreetMap way/117809409"}, "geometry": {"type": "Point", "coordinates": [12.301844, 41.759357]}}]}

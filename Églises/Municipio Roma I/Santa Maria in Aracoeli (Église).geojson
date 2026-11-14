@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria in Aracoeli", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.893973, "lon": 12.483192, "confession": "catholic", "wikidata": "Q318660", "source": "OpenStreetMap way/25640152"}, "geometry": {"type": "Point", "coordinates": [12.483192, 41.893973]}}]}

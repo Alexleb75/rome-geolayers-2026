@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Damaso", "categorie": "Église", "municipio": "Municipio Roma XII", "lat": 41.872262, "lon": 12.45563, "confession": "", "wikidata": "Q3669840", "source": "OpenStreetMap way/149460745"}, "geometry": {"type": "Point", "coordinates": [12.45563, 41.872262]}}]}

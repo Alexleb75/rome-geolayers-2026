@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant’Eligio dei Ferrari", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.890349, "lon": 12.482253, "confession": "catholic", "wikidata": "Q1760503", "source": "OpenStreetMap way/124282254"}, "geometry": {"type": "Point", "coordinates": [12.482253, 41.890349]}}]}

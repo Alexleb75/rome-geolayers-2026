@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Francesca Romana", "categorie": "Église", "municipio": "Municipio Roma VIII", "lat": 41.862181, "lon": 12.501985, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/27520249"}, "geometry": {"type": "Point", "coordinates": [12.501985, 41.862181]}}]}

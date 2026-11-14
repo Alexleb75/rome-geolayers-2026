@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria della Pace", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.899842, "lon": 12.47165, "confession": "roman_catholic", "wikidata": "Q1514683", "source": "OpenStreetMap way/50884075"}, "geometry": {"type": "Point", "coordinates": [12.47165, 41.899842]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Dio Padre Misericordioso", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.882411, "lon": 12.585456, "confession": "catholic", "wikidata": "Q1226760", "source": "OpenStreetMap way/201594753"}, "geometry": {"type": "Point", "coordinates": [12.585456, 41.882411]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Giacomo in Augusta", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.907753, "lon": 12.477301, "confession": "catholic", "wikidata": "Q2219582", "source": "OpenStreetMap way/60517417"}, "geometry": {"type": "Point", "coordinates": [12.477301, 41.907753]}}]}

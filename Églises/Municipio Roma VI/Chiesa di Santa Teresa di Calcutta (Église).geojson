@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Teresa di Calcutta", "categorie": "Église", "municipio": "Municipio Roma VI", "lat": 41.910305, "lon": 12.655247, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/888504585"}, "geometry": {"type": "Point", "coordinates": [12.655247, 41.910305]}}]}

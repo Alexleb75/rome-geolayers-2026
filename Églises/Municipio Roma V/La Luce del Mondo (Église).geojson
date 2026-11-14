@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "La Luce del Mondo", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.887209, "lon": 12.535509, "confession": "", "wikidata": "", "source": "OpenStreetMap node/7236635261"}, "geometry": {"type": "Point", "coordinates": [12.535509, 41.887209]}}]}

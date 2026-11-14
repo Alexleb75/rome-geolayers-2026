@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di San Silvestro", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.930878, "lon": 12.508421, "confession": "", "wikidata": "", "source": "OpenStreetMap way/360125179"}, "geometry": {"type": "Point", "coordinates": [12.508421, 41.930878]}}]}

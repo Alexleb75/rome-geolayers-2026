@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Giuseppe di Cluny", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.891944, "lon": 12.500575, "confession": "catholic", "wikidata": "Q3585353", "source": "OpenStreetMap way/352627894"}, "geometry": {"type": "Point", "coordinates": [12.500575, 41.891944]}}]}

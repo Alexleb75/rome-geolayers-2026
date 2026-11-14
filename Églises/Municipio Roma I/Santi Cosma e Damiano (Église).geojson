@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santi Cosma e Damiano", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.892048, "lon": 12.487495, "confession": "catholic", "wikidata": "Q675513", "source": "OpenStreetMap relation/1826131"}, "geometry": {"type": "Point", "coordinates": [12.487495, 41.892048]}}]}

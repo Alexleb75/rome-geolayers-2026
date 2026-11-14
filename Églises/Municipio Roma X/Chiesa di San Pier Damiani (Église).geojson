@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Pier Damiani", "categorie": "Église", "municipio": "Municipio Roma X", "lat": 41.787959, "lon": 12.379866, "confession": "roman_catholic", "wikidata": "Q3671586", "source": "OpenStreetMap way/215091252"}, "geometry": {"type": "Point", "coordinates": [12.379866, 41.787959]}}]}

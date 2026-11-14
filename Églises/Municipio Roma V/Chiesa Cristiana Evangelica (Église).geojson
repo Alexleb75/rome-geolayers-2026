@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa Cristiana Evangelica", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.884544, "lon": 12.533422, "confession": "protestant", "wikidata": "", "source": "OpenStreetMap way/486334352"}, "geometry": {"type": "Point", "coordinates": [12.533422, 41.884544]}}]}

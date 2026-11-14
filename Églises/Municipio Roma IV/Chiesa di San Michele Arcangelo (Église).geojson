@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Michele Arcangelo", "categorie": "Église", "municipio": "Municipio Roma IV", "lat": 41.91746, "lon": 12.550104, "confession": "catholic", "wikidata": "Q3671331", "source": "OpenStreetMap way/204628729"}, "geometry": {"type": "Point", "coordinates": [12.550104, 41.91746]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria Madre della Misericordia", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.88866, "lon": 12.553423, "confession": "catholic", "wikidata": "Q3673463", "source": "OpenStreetMap way/341050571"}, "geometry": {"type": "Point", "coordinates": [12.553423, 41.88866]}}]}

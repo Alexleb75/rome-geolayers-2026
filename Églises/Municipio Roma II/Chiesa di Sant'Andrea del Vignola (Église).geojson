@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Andrea del Vignola", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.921227, "lon": 12.472163, "confession": "catholic", "wikidata": "Q945662", "source": "OpenStreetMap way/59952368"}, "geometry": {"type": "Point", "coordinates": [12.472163, 41.921227]}}]}

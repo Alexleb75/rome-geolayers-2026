@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di San Marco", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.896043, "lon": 12.481547, "confession": "catholic", "wikidata": "Q1479910", "source": "OpenStreetMap way/140031952"}, "geometry": {"type": "Point", "coordinates": [12.481547, 41.896043]}}]}

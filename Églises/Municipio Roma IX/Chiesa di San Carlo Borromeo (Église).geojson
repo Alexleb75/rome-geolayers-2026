@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Carlo Borromeo", "categorie": "Église", "municipio": "Municipio Roma IX", "lat": 41.794969, "lon": 12.487144, "confession": "roman_catholic", "wikidata": "Q121869929", "source": "OpenStreetMap way/427991969"}, "geometry": {"type": "Point", "coordinates": [12.487144, 41.794969]}}]}

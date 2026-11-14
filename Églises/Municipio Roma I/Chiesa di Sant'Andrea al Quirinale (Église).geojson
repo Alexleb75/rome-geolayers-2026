@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Andrea al Quirinale", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.90068, "lon": 12.489355, "confession": "catholic", "wikidata": "Q1354667", "source": "OpenStreetMap way/112820613"}, "geometry": {"type": "Point", "coordinates": [12.489355, 41.90068]}}]}

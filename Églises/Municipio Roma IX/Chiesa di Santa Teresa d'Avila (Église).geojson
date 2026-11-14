@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Teresa d'Avila", "categorie": "Église", "municipio": "Municipio Roma IX", "lat": 41.714316, "lon": 12.593819, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/840502722"}, "geometry": {"type": "Point", "coordinates": [12.593819, 41.714316]}}]}

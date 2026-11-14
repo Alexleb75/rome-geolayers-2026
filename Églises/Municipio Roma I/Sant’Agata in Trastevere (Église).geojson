@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sant’Agata in Trastevere", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.88967, "lon": 12.473557, "confession": "roman_catholic", "wikidata": "Q3585390", "source": "OpenStreetMap way/203026436"}, "geometry": {"type": "Point", "coordinates": [12.473557, 41.88967]}}]}

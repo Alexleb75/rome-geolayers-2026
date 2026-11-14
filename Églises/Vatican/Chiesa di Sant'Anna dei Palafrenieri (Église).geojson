@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Anna dei Palafrenieri", "categorie": "Église", "municipio": "Vatican", "lat": 41.90417, "lon": 12.457488, "confession": "roman_catholic", "wikidata": "Q3585393", "source": "OpenStreetMap relation/19372161"}, "geometry": {"type": "Point", "coordinates": [12.457488, 41.90417]}}]}

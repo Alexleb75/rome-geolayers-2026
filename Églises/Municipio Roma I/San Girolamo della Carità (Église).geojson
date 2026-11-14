@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Girolamo della Carità", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.8953, "lon": 12.470204, "confession": "catholic", "wikidata": "Q888055", "source": "OpenStreetMap way/274949434"}, "geometry": {"type": "Point", "coordinates": [12.470204, 41.8953]}}]}

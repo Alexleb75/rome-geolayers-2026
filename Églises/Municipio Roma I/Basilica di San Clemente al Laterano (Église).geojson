@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di San Clemente al Laterano", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.889322, "lon": 12.49762, "confession": "catholic", "wikidata": "Q385910", "source": "OpenStreetMap relation/326080"}, "geometry": {"type": "Point", "coordinates": [12.49762, 41.889322]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria del Buon Consiglio", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.893427, "lon": 12.489468, "confession": "catholic", "wikidata": "Q3673694", "source": "OpenStreetMap way/201972048"}, "geometry": {"type": "Point", "coordinates": [12.489468, 41.893427]}}]}

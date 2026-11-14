@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa Apostolica", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.876885, "lon": 12.474895, "confession": "apostolic", "wikidata": "", "source": "OpenStreetMap node/5247115787"}, "geometry": {"type": "Point", "coordinates": [12.474895, 41.876885]}}]}

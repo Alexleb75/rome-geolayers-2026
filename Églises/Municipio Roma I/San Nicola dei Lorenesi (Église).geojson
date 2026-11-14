@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Nicola dei Lorenesi", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.899854, "lon": 12.472409, "confession": "catholic", "wikidata": "Q3583327", "source": "OpenStreetMap way/220589071"}, "geometry": {"type": "Point", "coordinates": [12.472409, 41.899854]}}]}

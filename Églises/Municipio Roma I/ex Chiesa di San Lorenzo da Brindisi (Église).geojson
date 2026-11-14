@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "ex Chiesa di San Lorenzo da Brindisi", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.909445, "lon": 12.495364, "confession": "", "wikidata": "Q3670941", "source": "OpenStreetMap way/317087906"}, "geometry": {"type": "Point", "coordinates": [12.495364, 41.909445]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Nostra Signora di Coromoto", "categorie": "Église", "municipio": "Municipio Roma XII", "lat": 41.862636, "lon": 12.444603, "confession": "roman_catholic", "wikidata": "Q3669431", "source": "OpenStreetMap way/525928534"}, "geometry": {"type": "Point", "coordinates": [12.444603, 41.862636]}}]}

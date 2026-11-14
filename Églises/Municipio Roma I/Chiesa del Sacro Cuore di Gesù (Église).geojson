@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa del Sacro Cuore di Gesù", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.908152, "lon": 12.499109, "confession": "catholic", "wikidata": "Q3580787", "source": "OpenStreetMap way/341240519"}, "geometry": {"type": "Point", "coordinates": [12.499109, 41.908152]}}]}

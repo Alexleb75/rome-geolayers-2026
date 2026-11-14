@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Girolamo dei Croati", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.905051, "lon": 12.475824, "confession": "catholic", "wikidata": "Q2791338", "source": "OpenStreetMap way/60615616"}, "geometry": {"type": "Point", "coordinates": [12.475824, 41.905051]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa Evangelica Valdese", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.906171, "lon": 12.470815, "confession": "waldensian", "wikidata": "Q3674414", "source": "OpenStreetMap way/358538665"}, "geometry": {"type": "Point", "coordinates": [12.470815, 41.906171]}}]}

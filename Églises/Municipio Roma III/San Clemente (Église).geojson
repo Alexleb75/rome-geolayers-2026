@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Clemente", "categorie": "Église", "municipio": "Municipio Roma III", "lat": 41.940938, "lon": 12.526149, "confession": "", "wikidata": "", "source": "OpenStreetMap relation/5648554"}, "geometry": {"type": "Point", "coordinates": [12.526149, 41.940938]}}]}

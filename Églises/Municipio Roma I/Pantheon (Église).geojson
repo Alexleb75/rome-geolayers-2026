@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Pantheon", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.898626, "lon": 12.476833, "confession": "roman_catholic", "wikidata": "Q99309", "source": "OpenStreetMap relation/3374342"}, "geometry": {"type": "Point", "coordinates": [12.476833, 41.898626]}}]}

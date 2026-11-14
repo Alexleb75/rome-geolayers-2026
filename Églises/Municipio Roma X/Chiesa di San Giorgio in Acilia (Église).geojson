@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Giorgio in Acilia", "categorie": "Église", "municipio": "Municipio Roma X", "lat": 41.778652, "lon": 12.358983, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/880589348"}, "geometry": {"type": "Point", "coordinates": [12.358983, 41.778652]}}]}

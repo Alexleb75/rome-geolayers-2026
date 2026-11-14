@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria del Pianto ai Catinari", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.893126, "lon": 12.476457, "confession": "catholic", "wikidata": "Q3673750", "source": "OpenStreetMap way/125374926"}, "geometry": {"type": "Point", "coordinates": [12.476457, 41.893126]}}]}

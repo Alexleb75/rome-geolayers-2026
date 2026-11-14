@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Carlo alle Quattro Fontane", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.901786, "lon": 12.490773, "confession": "roman_catholic", "wikidata": "Q867329", "source": "OpenStreetMap way/201374573"}, "geometry": {"type": "Point", "coordinates": [12.490773, 41.901786]}}]}

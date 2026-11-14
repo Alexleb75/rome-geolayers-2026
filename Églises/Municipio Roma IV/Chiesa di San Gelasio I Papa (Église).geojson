@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Gelasio I Papa", "categorie": "Église", "municipio": "Municipio Roma IV", "lat": 41.932691, "lon": 12.560005, "confession": "roman_catholic", "wikidata": "Q3670205", "source": "OpenStreetMap way/562293532"}, "geometry": {"type": "Point", "coordinates": [12.560005, 41.932691]}}]}

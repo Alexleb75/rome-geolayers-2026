@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Ognissanti", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.90829, "lon": 12.478797, "confession": "anglican", "wikidata": "Q3669448", "source": "OpenStreetMap way/201750571"}, "geometry": {"type": "Point", "coordinates": [12.478797, 41.90829]}}]}

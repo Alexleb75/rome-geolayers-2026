@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Tempio Evangelici", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.906616, "lon": 12.526122, "confession": "evangelical", "wikidata": "", "source": "OpenStreetMap way/582366065"}, "geometry": {"type": "Point", "coordinates": [12.526122, 41.906616]}}]}

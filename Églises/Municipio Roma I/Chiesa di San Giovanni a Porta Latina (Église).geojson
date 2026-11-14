@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Giovanni a Porta Latina", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.877232, "lon": 12.501968, "confession": "catholic", "wikidata": "Q592799", "source": "OpenStreetMap way/27030110"}, "geometry": {"type": "Point", "coordinates": [12.501968, 41.877232]}}]}

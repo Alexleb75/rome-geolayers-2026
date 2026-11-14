@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Faustina", "categorie": "Église", "municipio": "Municipio Roma XIV", "lat": 41.922328, "lon": 12.400746, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/153278210"}, "geometry": {"type": "Point", "coordinates": [12.400746, 41.922328]}}]}

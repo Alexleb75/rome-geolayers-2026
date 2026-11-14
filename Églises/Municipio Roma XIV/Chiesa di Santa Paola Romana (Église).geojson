@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Paola Romana", "categorie": "Église", "municipio": "Municipio Roma XIV", "lat": 41.913337, "lon": 12.442988, "confession": "catholic", "wikidata": "Q3674185", "source": "OpenStreetMap way/139765866"}, "geometry": {"type": "Point", "coordinates": [12.442988, 41.913337]}}]}

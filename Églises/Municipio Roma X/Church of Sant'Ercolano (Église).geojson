@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Church of Sant'Ercolano", "categorie": "Église", "municipio": "Municipio Roma X", "lat": 41.756948, "lon": 12.304949, "confession": "", "wikidata": "Q139594881", "source": "OpenStreetMap way/116921120"}, "geometry": {"type": "Point", "coordinates": [12.304949, 41.756948]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Cleto", "categorie": "Église", "municipio": "Municipio Roma IV", "lat": 41.946635, "lon": 12.571179, "confession": "roman_catholic", "wikidata": "Q3669791", "source": "OpenStreetMap node/449252276"}, "geometry": {"type": "Point", "coordinates": [12.571179, 41.946635]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Gesù Divino Maestro", "categorie": "Église", "municipio": "Municipio Roma XIV", "lat": 41.923184, "lon": 12.42526, "confession": "catholic", "wikidata": "Q3669314", "source": "OpenStreetMap way/506288793"}, "geometry": {"type": "Point", "coordinates": [12.42526, 41.923184]}}]}

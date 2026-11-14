@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di San Bartolomeo all'Isola", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.890274, "lon": 12.478309, "confession": "catholic", "wikidata": "Q1755418", "source": "OpenStreetMap way/49591745"}, "geometry": {"type": "Point", "coordinates": [12.478309, 41.890274]}}]}

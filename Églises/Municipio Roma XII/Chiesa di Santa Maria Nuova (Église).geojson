@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria Nuova", "categorie": "Église", "municipio": "Municipio Roma XII", "lat": 41.867871, "lon": 12.371875, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/802581782"}, "geometry": {"type": "Point", "coordinates": [12.371875, 41.867871]}}]}

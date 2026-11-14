@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di Santa Sofia", "categorie": "Église", "municipio": "Municipio Roma XIII", "lat": 41.911696, "lon": 12.397508, "confession": "catholic", "wikidata": "Q19973641", "source": "OpenStreetMap way/380373490"}, "geometry": {"type": "Point", "coordinates": [12.397508, 41.911696]}}]}

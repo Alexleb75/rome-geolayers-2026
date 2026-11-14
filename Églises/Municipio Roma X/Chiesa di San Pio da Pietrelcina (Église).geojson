@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Pio da Pietrelcina", "categorie": "Église", "municipio": "Municipio Roma X", "lat": 41.784909, "lon": 12.3931, "confession": "roman_catholic", "wikidata": "Q3671818", "source": "OpenStreetMap way/880584755"}, "geometry": {"type": "Point", "coordinates": [12.3931, 41.784909]}}]}

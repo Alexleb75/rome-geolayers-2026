@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Giuseppe alla Lungara", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.896819, "lon": 12.464078, "confession": "roman_catholic", "wikidata": "Q1345190", "source": "OpenStreetMap way/204163182"}, "geometry": {"type": "Point", "coordinates": [12.464078, 41.896819]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Caterina da Siena", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.876723, "lon": 12.506458, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/355331510"}, "geometry": {"type": "Point", "coordinates": [12.506458, 41.876723]}}]}

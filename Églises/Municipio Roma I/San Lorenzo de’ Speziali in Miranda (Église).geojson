@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Lorenzo de’ Speziali in Miranda", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.89225, "lon": 12.486779, "confession": "catholic", "wikidata": "Q3585359", "source": "OpenStreetMap relation/1841086"}, "geometry": {"type": "Point", "coordinates": [12.486779, 41.89225]}}]}

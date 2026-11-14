@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Parrocchia San Vigilio", "categorie": "Église", "municipio": "Municipio Roma VIII", "lat": 41.829404, "lon": 12.492737, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/377651107"}, "geometry": {"type": "Point", "coordinates": [12.492737, 41.829404]}}]}

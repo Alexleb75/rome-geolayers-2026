@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Benedetto Giuseppe Labre", "categorie": "Église", "municipio": "Municipio Roma IV", "lat": 41.947805, "lon": 12.584857, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/683871655"}, "geometry": {"type": "Point", "coordinates": [12.584857, 41.947805]}}]}

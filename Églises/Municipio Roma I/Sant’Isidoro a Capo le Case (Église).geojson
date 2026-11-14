@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sant’Isidoro a Capo le Case", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.906019, "lon": 12.487061, "confession": "catholic", "wikidata": "Q1099048", "source": "OpenStreetMap way/202072472"}, "geometry": {"type": "Point", "coordinates": [12.487061, 41.906019]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Anna al Laterano", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.890709, "lon": 12.502288, "confession": "catholic", "wikidata": "Q3585392", "source": "OpenStreetMap way/352406788"}, "geometry": {"type": "Point", "coordinates": [12.502288, 41.890709]}}]}

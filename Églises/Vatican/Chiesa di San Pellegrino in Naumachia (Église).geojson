@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Pellegrino in Naumachia", "categorie": "Église", "municipio": "Vatican", "lat": 41.904966, "lon": 12.457024, "confession": "roman_catholic", "wikidata": "Q3671583", "source": "OpenStreetMap way/111996197"}, "geometry": {"type": "Point", "coordinates": [12.457024, 41.904966]}}]}

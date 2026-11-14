@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santissimo Sacramento al Tritone", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.901896, "lon": 12.482267, "confession": "catholic", "wikidata": "Q3884473", "source": "OpenStreetMap way/60616323"}, "geometry": {"type": "Point", "coordinates": [12.482267, 41.901896]}}]}

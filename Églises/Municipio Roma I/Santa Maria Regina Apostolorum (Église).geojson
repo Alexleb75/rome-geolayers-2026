@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria Regina Apostolorum", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.913515, "lon": 12.4644, "confession": "roman_catholic", "wikidata": "Q3673519", "source": "OpenStreetMap relation/12332287"}, "geometry": {"type": "Point", "coordinates": [12.4644, 41.913515]}}]}

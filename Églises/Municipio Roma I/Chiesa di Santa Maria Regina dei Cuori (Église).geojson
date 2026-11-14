@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria Regina dei Cuori", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.91028, "lon": 12.493935, "confession": "catholic", "wikidata": "Q3673524", "source": "OpenStreetMap way/338700520"}, "geometry": {"type": "Point", "coordinates": [12.493935, 41.91028]}}]}

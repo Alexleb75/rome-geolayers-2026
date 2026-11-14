@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa Madre degli Orfani", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.829924, "lon": 12.617283, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap node/1475386856"}, "geometry": {"type": "Point", "coordinates": [12.617283, 41.829924]}}]}

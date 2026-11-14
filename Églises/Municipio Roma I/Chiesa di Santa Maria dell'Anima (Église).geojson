@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria dell'Anima", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.89973, "lon": 12.472055, "confession": "catholic", "wikidata": "Q2140145", "source": "OpenStreetMap way/52334111"}, "geometry": {"type": "Point", "coordinates": [12.472055, 41.89973]}}]}

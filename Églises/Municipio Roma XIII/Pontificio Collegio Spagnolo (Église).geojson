@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Pontificio Collegio Spagnolo", "categorie": "Église", "municipio": "Municipio Roma XIII", "lat": 41.894381, "lon": 12.428347, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap node/280990403"}, "geometry": {"type": "Point", "coordinates": [12.428347, 41.894381]}}]}

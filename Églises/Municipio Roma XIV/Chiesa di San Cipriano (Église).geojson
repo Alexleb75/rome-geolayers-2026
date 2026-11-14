@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Cipriano", "categorie": "Église", "municipio": "Municipio Roma XIV", "lat": 41.931162, "lon": 12.420311, "confession": "roman_catholic", "wikidata": "Q3669771", "source": "OpenStreetMap way/107686269"}, "geometry": {"type": "Point", "coordinates": [12.420311, 41.931162]}}]}

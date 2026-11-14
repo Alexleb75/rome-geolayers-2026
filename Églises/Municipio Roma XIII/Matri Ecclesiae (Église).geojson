@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Matri Ecclesiae", "categorie": "Église", "municipio": "Municipio Roma XIII", "lat": 41.924894, "lon": 12.365847, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/227642664"}, "geometry": {"type": "Point", "coordinates": [12.365847, 41.924894]}}]}

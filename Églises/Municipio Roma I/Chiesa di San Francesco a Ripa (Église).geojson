@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Francesco a Ripa", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.885055, "lon": 12.473307, "confession": "roman_catholic", "wikidata": "Q571088", "source": "OpenStreetMap way/198961070"}, "geometry": {"type": "Point", "coordinates": [12.473307, 41.885055]}}]}

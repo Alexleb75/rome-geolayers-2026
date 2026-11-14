@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sant'Anna a Tor Tre Teste", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.893754, "lon": 12.598298, "confession": "", "wikidata": "Q30889821", "source": "OpenStreetMap way/1361015457"}, "geometry": {"type": "Point", "coordinates": [12.598298, 41.893754]}}]}

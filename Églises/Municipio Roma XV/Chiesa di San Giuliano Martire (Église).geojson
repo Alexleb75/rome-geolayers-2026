@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Giuliano Martire", "categorie": "Église", "municipio": "Municipio Roma XV", "lat": 41.974952, "lon": 12.427916, "confession": "roman_catholic", "wikidata": "Q601732", "source": "OpenStreetMap way/178994278"}, "geometry": {"type": "Point", "coordinates": [12.427916, 41.974952]}}]}

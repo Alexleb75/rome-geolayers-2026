@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria della Luce", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.889152, "lon": 12.475518, "confession": "catholic", "wikidata": "Q1071768", "source": "OpenStreetMap way/203134085"}, "geometry": {"type": "Point", "coordinates": [12.475518, 41.889152]}}]}

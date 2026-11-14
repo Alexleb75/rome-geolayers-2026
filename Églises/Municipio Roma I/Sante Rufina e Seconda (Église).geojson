@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Sante Rufina e Seconda", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.889802, "lon": 12.472274, "confession": "catholic", "wikidata": "Q1539997", "source": "OpenStreetMap way/203585023"}, "geometry": {"type": "Point", "coordinates": [12.472274, 41.889802]}}]}

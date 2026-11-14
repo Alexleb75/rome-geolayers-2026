@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa dei Santi Sette Fondatori", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.910925, "lon": 12.512871, "confession": "catholic", "wikidata": "Q3668436", "source": "OpenStreetMap way/223976765"}, "geometry": {"type": "Point", "coordinates": [12.512871, 41.910925]}}]}

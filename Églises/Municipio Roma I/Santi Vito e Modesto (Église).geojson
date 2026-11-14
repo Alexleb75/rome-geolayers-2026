@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santi Vito e Modesto", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.895859, "lon": 12.501553, "confession": "roman_catholic", "wikidata": "Q3585446", "source": "OpenStreetMap way/95930238"}, "geometry": {"type": "Point", "coordinates": [12.501553, 41.895859]}}]}

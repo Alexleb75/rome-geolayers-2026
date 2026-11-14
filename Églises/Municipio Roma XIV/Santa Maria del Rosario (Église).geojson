@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria del Rosario", "categorie": "Église", "municipio": "Municipio Roma XIV", "lat": 41.920866, "lon": 12.447439, "confession": "", "wikidata": "", "source": "OpenStreetMap node/1195428023"}, "geometry": {"type": "Point", "coordinates": [12.447439, 41.920866]}}]}

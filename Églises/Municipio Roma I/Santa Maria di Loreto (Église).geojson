@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria di Loreto", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.895969, "lon": 12.483709, "confession": "roman_catholic", "wikidata": "Q461997", "source": "OpenStreetMap way/140031975"}, "geometry": {"type": "Point", "coordinates": [12.483709, 41.895969]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Ippolito a Villa Massimo", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.910663, "lon": 12.521662, "confession": "catholic", "wikidata": "Q3672844", "source": "OpenStreetMap way/222567494"}, "geometry": {"type": "Point", "coordinates": [12.521662, 41.910663]}}]}

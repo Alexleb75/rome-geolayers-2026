@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Lorenzo in Fonte", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.895648, "lon": 12.493755, "confession": "catholic", "wikidata": "Q727686", "source": "OpenStreetMap way/339438916"}, "geometry": {"type": "Point", "coordinates": [12.493755, 41.895648]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Rocco a Malagrotta", "categorie": "Église", "municipio": "Municipio Roma XII", "lat": 41.883423, "lon": 12.334462, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/489491565"}, "geometry": {"type": "Point", "coordinates": [12.334462, 41.883423]}}]}

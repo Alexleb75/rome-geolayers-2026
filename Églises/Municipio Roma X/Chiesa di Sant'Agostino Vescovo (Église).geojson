@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Agostino Vescovo", "categorie": "Église", "municipio": "Municipio Roma X", "lat": 41.752292, "lon": 12.326828, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/605940130"}, "geometry": {"type": "Point", "coordinates": [12.326828, 41.752292]}}]}

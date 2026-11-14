@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Fulgenzio", "categorie": "Église", "municipio": "Municipio Roma XIV", "lat": 41.926646, "lon": 12.441277, "confession": "catholic", "wikidata": "Q121869938", "source": "OpenStreetMap node/2499143075"}, "geometry": {"type": "Point", "coordinates": [12.441277, 41.926646]}}]}

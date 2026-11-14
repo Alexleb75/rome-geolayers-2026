@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Leone", "categorie": "Église", "municipio": "Municipio Roma XIII", "lat": 41.900606, "lon": 12.428498, "confession": "", "wikidata": "Q3670795", "source": "OpenStreetMap way/260954861"}, "geometry": {"type": "Point", "coordinates": [12.428498, 41.900606]}}]}

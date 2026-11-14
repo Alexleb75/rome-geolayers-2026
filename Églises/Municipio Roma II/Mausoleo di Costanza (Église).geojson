@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Mausoleo di Costanza", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.922609, "lon": 12.517373, "confession": "roman_catholic", "wikidata": "Q831361", "source": "OpenStreetMap way/35306502"}, "geometry": {"type": "Point", "coordinates": [12.517373, 41.922609]}}]}

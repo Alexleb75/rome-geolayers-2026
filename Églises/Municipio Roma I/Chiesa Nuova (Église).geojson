@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa Nuova", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.898477, "lon": 12.469198, "confession": "catholic", "wikidata": "Q2031901", "source": "OpenStreetMap way/29181216"}, "geometry": {"type": "Point", "coordinates": [12.469198, 41.898477]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa dell'Annunziatella", "categorie": "Église", "municipio": "Municipio Roma VIII", "lat": 41.835643, "lon": 12.511352, "confession": "roman_catholic", "wikidata": "Q3668746", "source": "OpenStreetMap way/323057808"}, "geometry": {"type": "Point", "coordinates": [12.511352, 41.835643]}}]}

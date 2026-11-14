@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santi Biagio e Carlo ai Catinari", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.894375, "lon": 12.475165, "confession": "catholic", "wikidata": "Q19593814", "source": "OpenStreetMap way/117744827"}, "geometry": {"type": "Point", "coordinates": [12.475165, 41.894375]}}]}

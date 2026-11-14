@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa dei SS Domenico e Sisto", "categorie": "Église", "municipio": "Municipio Roma IX", "lat": 41.806678, "lon": 12.466097, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/540682020"}, "geometry": {"type": "Point", "coordinates": [12.466097, 41.806678]}}]}

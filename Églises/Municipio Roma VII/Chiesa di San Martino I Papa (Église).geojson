@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Martino I Papa", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.884068, "lon": 12.509838, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap node/2971257575"}, "geometry": {"type": "Point", "coordinates": [12.509838, 41.884068]}}]}

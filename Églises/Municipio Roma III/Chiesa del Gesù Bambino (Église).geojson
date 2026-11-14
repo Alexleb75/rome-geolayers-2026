@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa del Gesù Bambino", "categorie": "Église", "municipio": "Municipio Roma III", "lat": 41.933524, "lon": 12.526876, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/377471068"}, "geometry": {"type": "Point", "coordinates": [12.526876, 41.933524]}}]}

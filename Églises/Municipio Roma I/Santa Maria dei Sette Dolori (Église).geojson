@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria dei Sette Dolori", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.889875, "lon": 12.466269, "confession": "roman_catholic", "wikidata": "Q1258812", "source": "OpenStreetMap way/205735092"}, "geometry": {"type": "Point", "coordinates": [12.466269, 41.889875]}}]}

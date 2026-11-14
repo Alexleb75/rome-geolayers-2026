@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria del Soccorso", "categorie": "Église", "municipio": "Municipio Roma IV", "lat": 41.914787, "lon": 12.562071, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/556692458"}, "geometry": {"type": "Point", "coordinates": [12.562071, 41.914787]}}]}

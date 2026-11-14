@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Gregorio Magno", "categorie": "Église", "municipio": "Municipio Roma XI", "lat": 41.844767, "lon": 12.45906, "confession": "", "wikidata": "Q3670715", "source": "OpenStreetMap way/479673248"}, "geometry": {"type": "Point", "coordinates": [12.45906, 41.844767]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa cristiana evangelica", "categorie": "Église", "municipio": "Municipio Roma VI", "lat": 41.855725, "lon": 12.603723, "confession": "evangelical", "wikidata": "", "source": "OpenStreetMap node/7673076638"}, "geometry": {"type": "Point", "coordinates": [12.603723, 41.855725]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Girolamo a Corviale", "categorie": "Église", "municipio": "Municipio Roma XI", "lat": 41.852708, "lon": 12.422172, "confession": "catholic", "wikidata": "Q3670578", "source": "OpenStreetMap way/36859982"}, "geometry": {"type": "Point", "coordinates": [12.422172, 41.852708]}}]}

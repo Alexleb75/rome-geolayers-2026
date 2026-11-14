@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa Centrale del Sacro Cuore", "categorie": "Église", "municipio": "Municipio Roma XIV", "lat": 41.933206, "lon": 12.427623, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/372420422"}, "geometry": {"type": "Point", "coordinates": [12.427623, 41.933206]}}]}

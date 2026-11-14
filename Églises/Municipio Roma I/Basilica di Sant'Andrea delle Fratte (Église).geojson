@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di Sant'Andrea delle Fratte", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.90364, "lon": 12.483853, "confession": "catholic", "wikidata": "Q1809794", "source": "OpenStreetMap way/202339987"}, "geometry": {"type": "Point", "coordinates": [12.483853, 41.90364]}}]}

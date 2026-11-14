@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Lorenzo in Piscibus", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.901734, "lon": 12.459208, "confession": "roman_catholic", "wikidata": "Q3670948", "source": "OpenStreetMap way/111736197"}, "geometry": {"type": "Point", "coordinates": [12.459208, 41.901734]}}]}

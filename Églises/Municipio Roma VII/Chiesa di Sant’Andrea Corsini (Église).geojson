@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant’Andrea Corsini", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.82659, "lon": 12.587397, "confession": "roman_catholic", "wikidata": "Q121870046", "source": "OpenStreetMap way/463415337"}, "geometry": {"type": "Point", "coordinates": [12.587397, 41.82659]}}]}

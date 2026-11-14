@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa dell'Immacolata Concezione", "categorie": "Église", "municipio": "Municipio Roma XI", "lat": 41.826024, "lon": 12.305497, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/652349920"}, "geometry": {"type": "Point", "coordinates": [12.305497, 41.826024]}}]}

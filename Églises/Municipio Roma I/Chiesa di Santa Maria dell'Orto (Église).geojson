@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria dell'Orto", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.886783, "lon": 12.47466, "confession": "catholic", "wikidata": "Q1634605", "source": "OpenStreetMap way/203001006"}, "geometry": {"type": "Point", "coordinates": [12.47466, 41.886783]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di San Giuseppe al Trionfale", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.911841, "lon": 12.451635, "confession": "catholic", "wikidata": "Q3635698", "source": "OpenStreetMap way/119915574"}, "geometry": {"type": "Point", "coordinates": [12.451635, 41.911841]}}]}

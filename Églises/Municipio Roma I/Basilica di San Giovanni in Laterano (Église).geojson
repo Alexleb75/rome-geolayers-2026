@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di San Giovanni in Laterano", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.885762, "lon": 12.505586, "confession": "catholic", "wikidata": "Q84090", "source": "OpenStreetMap relation/36444"}, "geometry": {"type": "Point", "coordinates": [12.505586, 41.885762]}}]}

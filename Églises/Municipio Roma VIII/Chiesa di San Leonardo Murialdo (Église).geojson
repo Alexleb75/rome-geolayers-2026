@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Leonardo Murialdo", "categorie": "Église", "municipio": "Municipio Roma VIII", "lat": 41.85359, "lon": 12.46803, "confession": "catholic", "wikidata": "Q3670786", "source": "OpenStreetMap way/146066123"}, "geometry": {"type": "Point", "coordinates": [12.46803, 41.85359]}}]}

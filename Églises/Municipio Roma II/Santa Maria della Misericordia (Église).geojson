@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria della Misericordia", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.902051, "lon": 12.523022, "confession": "", "wikidata": "", "source": "OpenStreetMap way/23896138"}, "geometry": {"type": "Point", "coordinates": [12.523022, 41.902051]}}]}

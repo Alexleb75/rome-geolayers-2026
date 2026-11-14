@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Margherita in Trastevere", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.889764, "lon": 12.471087, "confession": "catholic", "wikidata": "Q3585415", "source": "OpenStreetMap way/203296431"}, "geometry": {"type": "Point", "coordinates": [12.471087, 41.889764]}}]}

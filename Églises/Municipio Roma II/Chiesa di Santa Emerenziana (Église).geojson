@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Emerenziana", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.928703, "lon": 12.51561, "confession": "catholic", "wikidata": "Q3673045", "source": "OpenStreetMap way/222983357"}, "geometry": {"type": "Point", "coordinates": [12.51561, 41.928703]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa Santa Maria Assunta", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.88237, "lon": 12.563678, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/304444594"}, "geometry": {"type": "Point", "coordinates": [12.563678, 41.88237]}}]}

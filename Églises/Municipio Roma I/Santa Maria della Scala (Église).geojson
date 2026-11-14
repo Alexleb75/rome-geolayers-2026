@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria della Scala", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.891065, "lon": 12.467751, "confession": "roman_catholic", "wikidata": "Q2533316", "source": "OpenStreetMap way/203294766"}, "geometry": {"type": "Point", "coordinates": [12.467751, 41.891065]}}]}

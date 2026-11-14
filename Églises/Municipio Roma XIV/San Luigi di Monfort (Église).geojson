@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Luigi di Monfort", "categorie": "Église", "municipio": "Municipio Roma XIV", "lat": 41.937437, "lon": 12.423862, "confession": "catholic", "wikidata": "Q3670970", "source": "OpenStreetMap way/107573809"}, "geometry": {"type": "Point", "coordinates": [12.423862, 41.937437]}}]}

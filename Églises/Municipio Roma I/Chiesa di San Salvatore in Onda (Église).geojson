@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Salvatore in Onda", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.893087, "lon": 12.471545, "confession": "roman_catholic", "wikidata": "Q3585382", "source": "OpenStreetMap way/220585368"}, "geometry": {"type": "Point", "coordinates": [12.471545, 41.893087]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa dello Spirito Santo", "categorie": "Église", "municipio": "Municipio Roma XIII", "lat": 41.902752, "lon": 12.283981, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/65050319"}, "geometry": {"type": "Point", "coordinates": [12.283981, 41.902752]}}]}

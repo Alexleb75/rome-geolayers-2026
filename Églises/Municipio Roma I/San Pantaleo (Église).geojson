@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Pantaleo", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.897112, "lon": 12.473232, "confession": "roman_catholic", "wikidata": "Q3585371", "source": "OpenStreetMap way/60615619"}, "geometry": {"type": "Point", "coordinates": [12.473232, 41.897112]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria Antiqua", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.890925, "lon": 12.48555, "confession": "catholic", "wikidata": "Q195660", "source": "OpenStreetMap relation/13402532"}, "geometry": {"type": "Point", "coordinates": [12.48555, 41.890925]}}]}

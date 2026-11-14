@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Cristo Re", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.806066, "lon": 12.61735, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/464804158"}, "geometry": {"type": "Point", "coordinates": [12.61735, 41.806066]}}]}

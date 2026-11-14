@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Marta al Collegio Romano", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.897455, "lon": 12.479937, "confession": "", "wikidata": "Q3674173", "source": "OpenStreetMap way/130807638"}, "geometry": {"type": "Point", "coordinates": [12.479937, 41.897455]}}]}

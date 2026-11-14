@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di Santa Prassede", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.89624, "lon": 12.498693, "confession": "catholic", "wikidata": "Q733890", "source": "OpenStreetMap way/44448525"}, "geometry": {"type": "Point", "coordinates": [12.498693, 41.89624]}}]}

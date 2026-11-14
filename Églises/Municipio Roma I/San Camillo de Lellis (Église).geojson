@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Camillo de Lellis", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.907015, "lon": 12.494351, "confession": "catholic", "wikidata": "Q2424787", "source": "OpenStreetMap way/203946467"}, "geometry": {"type": "Point", "coordinates": [12.494351, 41.907015]}}]}

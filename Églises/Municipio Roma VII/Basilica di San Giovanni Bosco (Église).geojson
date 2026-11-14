@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di San Giovanni Bosco", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.858751, "lon": 12.565707, "confession": "roman_catholic", "wikidata": "Q971129", "source": "OpenStreetMap way/258617991"}, "geometry": {"type": "Point", "coordinates": [12.565707, 41.858751]}}]}

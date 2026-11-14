@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Barbara", "categorie": "Église", "municipio": "Municipio Roma IX", "lat": 41.809469, "lon": 12.495556, "confession": "catholic", "wikidata": "", "source": "OpenStreetMap way/1035937286"}, "geometry": {"type": "Point", "coordinates": [12.495556, 41.809469]}}]}

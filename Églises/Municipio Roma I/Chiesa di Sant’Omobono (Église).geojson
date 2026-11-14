@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant’Omobono", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.890791, "lon": 12.48137, "confession": "catholic", "wikidata": "Q3672855", "source": "OpenStreetMap way/111669473"}, "geometry": {"type": "Point", "coordinates": [12.48137, 41.890791]}}]}

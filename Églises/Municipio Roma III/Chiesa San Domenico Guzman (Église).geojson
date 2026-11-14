@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa San Domenico Guzman", "categorie": "Église", "municipio": "Municipio Roma III", "lat": 41.981813, "lon": 12.559072, "confession": "catholic", "wikidata": "Q3669906", "source": "OpenStreetMap way/484981821"}, "geometry": {"type": "Point", "coordinates": [12.559072, 41.981813]}}]}

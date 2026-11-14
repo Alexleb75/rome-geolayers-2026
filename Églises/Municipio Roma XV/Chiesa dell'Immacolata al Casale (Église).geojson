@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa dell'Immacolata al Casale", "categorie": "Église", "municipio": "Municipio Roma XV", "lat": 41.985516, "lon": 12.407276, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/802562809"}, "geometry": {"type": "Point", "coordinates": [12.407276, 41.985516]}}]}

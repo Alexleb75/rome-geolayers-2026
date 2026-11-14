@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Agapito", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.896043, "lon": 12.548327, "confession": "", "wikidata": "Q3672241", "source": "OpenStreetMap way/529689705"}, "geometry": {"type": "Point", "coordinates": [12.548327, 41.896043]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria Regina della Pace", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.837634, "lon": 12.62351, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/882901438"}, "geometry": {"type": "Point", "coordinates": [12.62351, 41.837634]}}]}

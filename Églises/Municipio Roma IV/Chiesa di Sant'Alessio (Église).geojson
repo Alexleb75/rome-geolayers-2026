@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Alessio", "categorie": "Église", "municipio": "Municipio Roma IV", "lat": 41.930785, "lon": 12.646158, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/581978716"}, "geometry": {"type": "Point", "coordinates": [12.646158, 41.930785]}}]}

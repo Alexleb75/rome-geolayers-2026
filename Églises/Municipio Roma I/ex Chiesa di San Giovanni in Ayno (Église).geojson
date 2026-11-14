@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "ex Chiesa di San Giovanni in Ayno", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.896583, "lon": 12.468713, "confession": "", "wikidata": "Q3670556", "source": "OpenStreetMap way/128364577"}, "geometry": {"type": "Point", "coordinates": [12.468713, 41.896583]}}]}

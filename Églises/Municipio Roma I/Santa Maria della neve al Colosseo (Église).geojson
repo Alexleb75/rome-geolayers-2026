@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria della neve al Colosseo", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.892618, "lon": 12.490161, "confession": "catholic", "wikidata": "Q3673872", "source": "OpenStreetMap way/140383956"}, "geometry": {"type": "Point", "coordinates": [12.490161, 41.892618]}}]}

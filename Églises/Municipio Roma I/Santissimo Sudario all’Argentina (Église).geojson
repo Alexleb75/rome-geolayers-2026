@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santissimo Sudario all’Argentina", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.895849, "lon": 12.475221, "confession": "catholic", "wikidata": "Q3668683", "source": "OpenStreetMap way/125831636"}, "geometry": {"type": "Point", "coordinates": [12.475221, 41.895849]}}]}

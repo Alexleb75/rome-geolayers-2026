@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa San Giovanni Leonardi", "categorie": "Église", "municipio": "Municipio Roma VI", "lat": 41.865617, "lon": 12.594305, "confession": "roman_catholic", "wikidata": "Q71724823", "source": "OpenStreetMap way/442101143"}, "geometry": {"type": "Point", "coordinates": [12.594305, 41.865617]}}]}

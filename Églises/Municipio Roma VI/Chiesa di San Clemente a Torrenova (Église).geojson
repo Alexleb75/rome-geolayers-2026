@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Clemente a Torrenova", "categorie": "Église", "municipio": "Municipio Roma VI", "lat": 41.862884, "lon": 12.617328, "confession": "roman_catholic", "wikidata": "", "source": "OpenStreetMap way/426853671"}, "geometry": {"type": "Point", "coordinates": [12.617328, 41.862884]}}]}

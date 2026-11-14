@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria in Aquiro", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.899961, "lon": 12.478232, "confession": "catholic", "wikidata": "Q1552500", "source": "OpenStreetMap way/130920755"}, "geometry": {"type": "Point", "coordinates": [12.478232, 41.899961]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di San Saba", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.878603, "lon": 12.485529, "confession": "catholic", "wikidata": "Q1729714", "source": "OpenStreetMap way/53791987"}, "geometry": {"type": "Point", "coordinates": [12.485529, 41.878603]}}]}

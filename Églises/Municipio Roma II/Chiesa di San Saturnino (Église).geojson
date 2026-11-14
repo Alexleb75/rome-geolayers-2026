@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Saturnino", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.922446, "lon": 12.507696, "confession": "catholic", "wikidata": "Q610411", "source": "OpenStreetMap way/24045451"}, "geometry": {"type": "Point", "coordinates": [12.507696, 41.922446]}}]}

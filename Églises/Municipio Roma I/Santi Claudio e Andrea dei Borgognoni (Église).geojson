@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santi Claudio e Andrea dei Borgognoni", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.90225, "lon": 12.481556, "confession": "catholic", "wikidata": "Q1165017", "source": "OpenStreetMap way/131235402"}, "geometry": {"type": "Point", "coordinates": [12.481556, 41.90225]}}]}

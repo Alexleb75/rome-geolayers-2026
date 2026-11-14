@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Andrea Avellino", "categorie": "Église", "municipio": "Municipio Roma XIV", "lat": 41.96526, "lon": 12.411801, "confession": "", "wikidata": "Q3672451", "source": "OpenStreetMap way/495285635"}, "geometry": {"type": "Point", "coordinates": [12.411801, 41.96526]}}]}

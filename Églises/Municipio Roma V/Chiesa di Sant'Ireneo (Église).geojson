@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Ireneo", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.889763, "lon": 12.564452, "confession": "", "wikidata": "Q3672845", "source": "OpenStreetMap way/73041178"}, "geometry": {"type": "Point", "coordinates": [12.564452, 41.889763]}}]}

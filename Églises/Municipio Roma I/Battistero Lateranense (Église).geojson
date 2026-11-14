@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Battistero Lateranense", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.886148, "lon": 12.504292, "confession": "", "wikidata": "Q2519438", "source": "OpenStreetMap way/44132631"}, "geometry": {"type": "Point", "coordinates": [12.504292, 41.886148]}}]}

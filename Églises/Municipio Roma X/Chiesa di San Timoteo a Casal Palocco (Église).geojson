@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Timoteo a Casal Palocco", "categorie": "Église", "municipio": "Municipio Roma X", "lat": 41.75212, "lon": 12.356085, "confession": "catholic", "wikidata": "Q3672107", "source": "OpenStreetMap way/328258357"}, "geometry": {"type": "Point", "coordinates": [12.356085, 41.75212]}}]}

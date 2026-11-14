@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di San Sisto Vecchio", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.88056, "lon": 12.495794, "confession": "catholic", "wikidata": "Q2736770", "source": "OpenStreetMap relation/13004277"}, "geometry": {"type": "Point", "coordinates": [12.495794, 41.88056]}}]}

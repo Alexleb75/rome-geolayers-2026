@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Leone I", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.890953, "lon": 12.529291, "confession": "catholic", "wikidata": "Q1421231", "source": "OpenStreetMap way/368145417"}, "geometry": {"type": "Point", "coordinates": [12.529291, 41.890953]}}]}

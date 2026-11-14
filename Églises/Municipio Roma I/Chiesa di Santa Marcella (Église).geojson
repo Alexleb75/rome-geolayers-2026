@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Marcella", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.8744, "lon": 12.488295, "confession": "roman_catholic", "wikidata": "Q3673150", "source": "OpenStreetMap way/1266043552"}, "geometry": {"type": "Point", "coordinates": [12.488295, 41.8744]}}]}

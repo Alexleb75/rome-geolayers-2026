@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Maria in Grottapinta", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.895378, "lon": 12.473476, "confession": "", "wikidata": "Q3674126", "source": "OpenStreetMap way/128570599"}, "geometry": {"type": "Point", "coordinates": [12.473476, 41.895378]}}]}

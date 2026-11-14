@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa Neo-Apostolica di Roma", "categorie": "Église", "municipio": "Municipio Roma VI", "lat": 41.860886, "lon": 12.610291, "confession": "new_apostolic", "wikidata": "", "source": "OpenStreetMap way/423602559"}, "geometry": {"type": "Point", "coordinates": [12.610291, 41.860886]}}]}

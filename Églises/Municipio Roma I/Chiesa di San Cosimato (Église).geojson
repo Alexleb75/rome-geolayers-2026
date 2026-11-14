@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Cosimato", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.886688, "lon": 12.470472, "confession": "catholic", "wikidata": "Q3669802", "source": "OpenStreetMap way/182211430"}, "geometry": {"type": "Point", "coordinates": [12.470472, 41.886688]}}]}

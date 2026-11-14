@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria in Tempulo", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.882115, "lon": 12.493719, "confession": "", "wikidata": "Q3674146", "source": "OpenStreetMap way/202932399"}, "geometry": {"type": "Point", "coordinates": [12.493719, 41.882115]}}]}

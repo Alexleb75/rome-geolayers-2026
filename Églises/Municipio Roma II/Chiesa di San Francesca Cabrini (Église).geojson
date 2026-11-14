@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Francesca Cabrini", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.917737, "lon": 12.52589, "confession": "catholic", "wikidata": "Q3673055", "source": "OpenStreetMap way/178991995"}, "geometry": {"type": "Point", "coordinates": [12.52589, 41.917737]}}]}

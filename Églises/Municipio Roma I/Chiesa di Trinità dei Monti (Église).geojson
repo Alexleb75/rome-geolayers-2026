@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Trinità dei Monti", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.906278, "lon": 12.483712, "confession": "catholic", "wikidata": "Q1229008", "source": "OpenStreetMap way/54044477"}, "geometry": {"type": "Point", "coordinates": [12.483712, 41.906278]}}]}

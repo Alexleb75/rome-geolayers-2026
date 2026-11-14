@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Lino", "categorie": "Église", "municipio": "Municipio Roma XIII", "lat": 41.912932, "lon": 12.422566, "confession": "catholic", "wikidata": "Q3670813", "source": "OpenStreetMap way/109371829"}, "geometry": {"type": "Point", "coordinates": [12.422566, 41.912932]}}]}

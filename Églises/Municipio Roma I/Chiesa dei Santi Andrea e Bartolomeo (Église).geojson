@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa dei Santi Andrea e Bartolomeo", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.887115, "lon": 12.502869, "confession": "", "wikidata": "Q1556364", "source": "OpenStreetMap relation/2130198"}, "geometry": {"type": "Point", "coordinates": [12.502869, 41.887115]}}]}

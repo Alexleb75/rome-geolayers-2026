@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa Salus Infirmorum", "categorie": "Église", "municipio": "Municipio Roma XII", "lat": 41.867788, "lon": 12.458406, "confession": "", "wikidata": "", "source": "OpenStreetMap way/370365099"}, "geometry": {"type": "Point", "coordinates": [12.458406, 41.867788]}}]}

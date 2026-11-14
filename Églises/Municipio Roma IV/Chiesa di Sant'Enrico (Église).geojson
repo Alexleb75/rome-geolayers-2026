@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Sant'Enrico", "categorie": "Église", "municipio": "Municipio Roma IV", "lat": 41.945489, "lon": 12.601443, "confession": "roman_catholic", "wikidata": "Q121870049", "source": "OpenStreetMap way/530881534"}, "geometry": {"type": "Point", "coordinates": [12.601443, 41.945489]}}]}

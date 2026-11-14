@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Santa Maria in Cappella", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.887315, "lon": 12.478165, "confession": "roman_catholic", "wikidata": "Q2223175", "source": "OpenStreetMap way/202988409"}, "geometry": {"type": "Point", "coordinates": [12.478165, 41.887315]}}]}

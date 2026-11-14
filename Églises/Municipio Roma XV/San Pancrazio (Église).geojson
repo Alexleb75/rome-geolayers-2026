@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Pancrazio", "categorie": "Église", "municipio": "Municipio Roma XV", "lat": 42.019541, "lon": 12.393502, "confession": "roman_catholic", "wikidata": "Q3671519", "source": "OpenStreetMap way/102570527"}, "geometry": {"type": "Point", "coordinates": [12.393502, 42.019541]}}]}

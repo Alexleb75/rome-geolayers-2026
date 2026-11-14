@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa dei Santi Aquila e Priscilla", "categorie": "Église", "municipio": "Municipio Roma XI", "lat": 41.866802, "lon": 12.472955, "confession": "", "wikidata": "Q3668081", "source": "OpenStreetMap way/74698849"}, "geometry": {"type": "Point", "coordinates": [12.472955, 41.866802]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Felice da Cantalice", "categorie": "Église", "municipio": "Municipio Roma V", "lat": 41.87651, "lon": 12.566259, "confession": "roman_catholic", "wikidata": "Q3669961", "source": "OpenStreetMap way/304443991"}, "geometry": {"type": "Point", "coordinates": [12.566259, 41.87651]}}]}

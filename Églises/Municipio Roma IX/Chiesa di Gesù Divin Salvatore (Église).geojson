@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Gesù Divin Salvatore", "categorie": "Église", "municipio": "Municipio Roma IX", "lat": 41.77714, "lon": 12.434814, "confession": "roman_catholic", "wikidata": "Q3669310", "source": "OpenStreetMap way/880577887"}, "geometry": {"type": "Point", "coordinates": [12.434814, 41.77714]}}]}

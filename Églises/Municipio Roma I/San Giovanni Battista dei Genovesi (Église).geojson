@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Giovanni Battista dei Genovesi", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.888085, "lon": 12.475425, "confession": "", "wikidata": "Q3585341", "source": "OpenStreetMap way/203136381"}, "geometry": {"type": "Point", "coordinates": [12.475425, 41.888085]}}]}

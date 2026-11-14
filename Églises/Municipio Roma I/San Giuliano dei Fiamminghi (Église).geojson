@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "San Giuliano dei Fiamminghi", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.895869, "lon": 12.475686, "confession": "catholic", "wikidata": "Q1143123", "source": "OpenStreetMap way/125831664"}, "geometry": {"type": "Point", "coordinates": [12.475686, 41.895869]}}]}

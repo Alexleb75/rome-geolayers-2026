@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa del Corpus Domini", "categorie": "Église", "municipio": "Municipio Roma II", "lat": 41.910641, "lon": 12.503868, "confession": "catholic", "wikidata": "Q3668535", "source": "OpenStreetMap way/360603734"}, "geometry": {"type": "Point", "coordinates": [12.503868, 41.910641]}}]}

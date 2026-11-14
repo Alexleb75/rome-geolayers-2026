@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di San Pio X", "categorie": "Église", "municipio": "Municipio Roma XIV", "lat": 41.919725, "lon": 12.440678, "confession": "", "wikidata": "Q3671816", "source": "OpenStreetMap way/443186314"}, "geometry": {"type": "Point", "coordinates": [12.440678, 41.919725]}}]}

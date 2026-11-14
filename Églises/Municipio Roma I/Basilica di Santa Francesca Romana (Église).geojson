@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Basilica di Santa Francesca Romana", "categorie": "Église", "municipio": "Municipio Roma I", "lat": 41.891171, "lon": 12.48879, "confession": "catholic", "wikidata": "Q1091640", "source": "OpenStreetMap relation/1841087"}, "geometry": {"type": "Point", "coordinates": [12.48879, 41.891171]}}]}

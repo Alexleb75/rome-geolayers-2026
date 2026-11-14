@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa di Santa Barbara", "categorie": "Église", "municipio": "Municipio Roma VII", "lat": 41.829388, "lon": 12.564796, "confession": "roman_catholic", "wikidata": "Q3672888", "source": "OpenStreetMap way/537728298"}, "geometry": {"type": "Point", "coordinates": [12.564796, 41.829388]}}]}

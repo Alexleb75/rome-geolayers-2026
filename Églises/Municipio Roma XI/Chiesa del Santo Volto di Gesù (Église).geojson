@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Chiesa del Santo Volto di Gesù", "categorie": "Église", "municipio": "Municipio Roma XI", "lat": 41.851856, "lon": 12.458878, "confession": "catholic", "wikidata": "Q3668693", "source": "OpenStreetMap way/316882811"}, "geometry": {"type": "Point", "coordinates": [12.458878, 41.851856]}}]}
