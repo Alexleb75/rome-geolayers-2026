@@ -9,6 +9,9 @@ La recherche se fait **par nom de fichier** ; le chemin du dossier s'affiche com
 ```
 Fleuves/    Tibre (Fleuve)            tracé complet source → embouchure (~410 km)
             Aniene (Fleuve)           tracé complet source → confluence avec le Tibre (~120 km)
+Itinéraires/ Piste cyclable du Tibre jusqu'à la mer (Piste cyclable)
+            Regina Ciclarum : Castel Giubileo → berges du Tibre → Ponte Galeria → Fiumicino (~56 km)
+            fourni aussi en .gpx (GPS / téléphone)
 Quartiers/  Centre historique (Quartier)   contour des 20 rioni intra-muros (≈ murs d'Aurélien, 13,7 km²)
             Esquilino (Quartier)           contour du rione XV
 Pays/       Vatican (État)
